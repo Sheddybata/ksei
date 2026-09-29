@@ -15,7 +15,15 @@ function destination(role: Role, next: string | null) {
 export async function login(input: { email: string; password: string; next?: string | null }) {
   const email = input.email.toLowerCase().trim();
   const password = input.password;
-  const user = await prisma.user.findUnique({ where: { email } });
+  if (!process.env.DATABASE_URL) {
+    return { ok: false as const, message: "The portal database is not connected yet." };
+  }
+  let user: Awaited<ReturnType<typeof prisma.user.findUnique>>;
+  try {
+    user = await prisma.user.findUnique({ where: { email } });
+  } catch {
+    return { ok: false as const, message: "The portal database is not connected yet." };
+  }
   if (!user || !(await bcrypt.compare(password, user.passwordHash)) || !isRole(user.role)) {
     return { ok: false as const, message: "Those credentials were not recognised." };
   }

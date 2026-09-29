@@ -15,12 +15,22 @@ const steps = [
   { title: "Empower", copy: "A certificate only when character and practical skill both hold, then follow-up after graduation." },
 ];
 
+async function publicCounts() {
+  if (!process.env.DATABASE_URL) return { students: 0, courses: 0, applications: 0 };
+  try {
+    const [students, courses, applications] = await Promise.all([
+      prisma.student.count(),
+      prisma.course.count(),
+      prisma.application.count(),
+    ]);
+    return { students, courses, applications };
+  } catch {
+    return { students: 0, courses: 0, applications: 0 };
+  }
+}
+
 export default async function HomePage() {
-  const [students, courses, applications] = await Promise.all([
-    prisma.student.count(),
-    prisma.course.count(),
-    prisma.application.count(),
-  ]);
+  const { students, courses, applications } = await publicCounts();
 
   return (
     <>

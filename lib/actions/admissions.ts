@@ -2,6 +2,7 @@
 
 import bcrypt from "bcryptjs";
 import { revalidatePath } from "next/cache";
+import { Prisma } from "@prisma/client";
 import { z } from "zod";
 import { prisma } from "@/lib/prisma";
 import { requireSession } from "@/lib/session";
@@ -51,10 +52,19 @@ export async function submitApplication(formData: FormData) {
     return { ok: false as const, message: "Enter a valid date of birth." };
   }
 
-  const program = await prisma.program.findUnique({
-    where: { id: data.programId },
-    include: { courses: true },
-  });
+  if (!process.env.DATABASE_URL) {
+    return { ok: false as const, message: "Online applications are not being recorded yet. Write to info@ksei.org.ng." };
+  }
+
+  let program: Prisma.ProgramGetPayload<{ include: { courses: true } }> | null;
+  try {
+    program = await prisma.program.findUnique({
+      where: { id: data.programId },
+      include: { courses: true },
+    });
+  } catch {
+    return { ok: false as const, message: "Online applications are not being recorded yet. Write to info@ksei.org.ng." };
+  }
   if (!program) return { ok: false as const, message: "That programme is no longer open." };
 
   if (data.courseId && !program.courses.some((course) => course.id === data.courseId)) {
