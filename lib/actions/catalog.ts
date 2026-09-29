@@ -119,13 +119,13 @@ export async function addModule(input: {
 }
 
 export async function deleteModule(moduleId: string) {
-  const module = await prisma.module.findUnique({ where: { id: moduleId } });
-  if (!module) return { ok: false as const, message: "Module not found." };
-  const session = await canTeach(module.courseId);
+  const lesson = await prisma.module.findUnique({ where: { id: moduleId } });
+  if (!lesson) return { ok: false as const, message: "Module not found." };
+  const session = await canTeach(lesson.courseId);
   if (!session) return { ok: false as const, message: "You cannot remove this module." };
   await prisma.module.delete({ where: { id: moduleId } });
   revalidatePath("/admin/courses");
-  revalidatePath(`/dashboard/courses/${module.courseId}`);
+  revalidatePath(`/dashboard/courses/${lesson.courseId}`);
   return { ok: true as const, message: "Module removed." };
 }
 

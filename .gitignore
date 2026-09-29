@@ -8,3 +8,6 @@ public/uploads/*
 .env
 *.log
 .DS_Store
+
+.vercel
+.env*

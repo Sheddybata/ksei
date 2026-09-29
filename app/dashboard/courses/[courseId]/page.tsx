@@ -95,14 +95,14 @@ export default async function CoursePage({
           };
         })}
         checkpoints={quizzes.flatMap((assessment) => {
-          const module = enrollment.course.modules.find((item) => item.order === assessment.gateOrder);
-          const step = module ? byId.get(module.id) : undefined;
-          if (!module || !step?.unlocked) return [];
+          const lesson = enrollment.course.modules.find((item) => item.order === assessment.gateOrder);
+          const step = lesson ? byId.get(lesson.id) : undefined;
+          if (!lesson || !step?.unlocked) return [];
           const submission = assessment.submissions[0];
           const percent = percentOf(submission ?? null) ?? 0;
           return [
             {
-              moduleId: module.id,
+              moduleId: lesson.id,
               id: assessment.id,
               title: assessment.title,
               instructions: assessment.instructions,
