@@ -1,0 +1,1202 @@
+﻿Dr Isa El-Buba Foundation (DISEF)
+Departmental Training Module
+Artificial Intelligence Awareness
+
+1. Department Overview
+The Artificial Intelligence Awareness Department trains young people to understand the basic meaning, uses, opportunities, dangers, ethics and practical applications of Artificial Intelligence in everyday life, work, ministry, education, business and community development.
+Artificial Intelligence, often called AI, refers to computer systems that can perform tasks that normally require human intelligence, such as answering questions, generating text, recognising patterns, assisting with research, translating languages, analysing information, creating images, summarising documents and supporting decision-making.
+AI is not God. AI is not the Holy Spirit. AI is not a replacement for wisdom, character, prayer, Scripture, human responsibility or professional judgement. AI is a tool. Like every tool, it can be used for good or misused for harm. The Academy must therefore train trainees to understand AI with wisdom, discipline, caution and Kingdom character.
+This department does not aim to make trainees advanced AI engineers or data scientists within seven months. Rather, it gives them a strong foundation in AI awareness, responsible AI use, prompt writing, digital ethics, information checking, productivity, education support, business support, ministry support, workplace support, data privacy and AI-related enterprise opportunities.
+AI awareness is important because the world of work is changing. Trainees who understand how to use AI responsibly can become more productive, more employable, more creative and better prepared for the future. However, trainees must also learn that AI can produce wrong information, biased information, false images, fake documents and misleading answers. Therefore, AI output must always be checked.
+The Artificial Intelligence Awareness Department must train trainees to use AI for learning, service, creativity, problem-solving, productivity and community development, while avoiding deception, laziness, plagiarism, fraud, impersonation, misinformation and ungodly use.
+
+2. Purpose of the Department
+The purpose of the Artificial Intelligence Awareness Department is to raise disciplined, wise and God-fearing trainees who can understand and use AI tools responsibly for learning, work, enterprise, ministry and community impact.
+The department aims to:
+1. Teach trainees the basic meaning of Artificial Intelligence.
+2. Help trainees understand the difference between human intelligence and machine assistance.
+3. Train trainees in safe and responsible use of AI tools.
+4. Teach trainees how to write clear prompts and ask good questions.
+5. Build awareness of AI strengths, limitations and risks.
+6. Train trainees to check AI-generated information before using it.
+7. Teach AI ethics, data privacy, copyright, plagiarism and digital responsibility.
+8. Show trainees how AI can support office work, education, agriculture, business, hospitality, finance, ministry and community development.
+9. Prepare trainees for industrial attachment in digital, administrative, educational, media, business and technology-support environments.
+10. Help trainees identify honest enterprise opportunities using AI-assisted services.
+11. Develop trainees who can use AI with wisdom, humility, truth and Kingdom character.
+
+3. Foundational Scriptures for the Department
+Proverbs 4:7
+Quoted Scripture:“Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.”
+Department Lesson:AI must be used with wisdom and understanding. Knowledge without wisdom can become dangerous.
+Daniel 1:17
+Quoted Scripture:“As for these four children, God gave them knowledge and skill in all learning and wisdom.”
+Department Lesson:God can give knowledge, skill and wisdom. Trainees must develop modern skills without losing godly character.
+James 1:5
+Quoted Scripture:“If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not.”
+Department Lesson:AI may provide information, but true wisdom comes from God. Trainees must seek God’s wisdom above machine answers.
+1 Thessalonians 5:21
+Quoted Scripture:“Prove all things; hold fast that which is good.”
+Department Lesson:AI-generated information must be tested, checked and verified before use.
+Colossians 3:23
+Quoted Scripture:“And whatsoever ye do, do it heartily, as to the Lord, and not unto men.”
+Department Lesson:AI should not make trainees lazy. All work must still be done with excellence and responsibility.
+
+4. Skills Trainees Must Learn
+By the end of the training, trainees should learn the following foundational skills.
+A. AI Orientation Skills
+1. Understanding the meaning of Artificial Intelligence.
+2. Understanding AI as a tool, not a person.
+3. Understanding common uses of AI.
+4. Understanding the difference between AI assistance and human responsibility.
+5. Understanding the importance of wisdom in technology.
+6. Understanding the limits of AI.
+7. Understanding that AI can make mistakes.
+8. Understanding responsible AI use.
+9. Understanding ethical concerns in AI.
+10. Representing the Academy with honour in digital spaces.
+B. Prompt Writing Skills
+1. Asking clear questions.
+2. Giving proper context.
+3. Stating the expected output.
+4. Asking for simple explanations.
+5. Asking for step-by-step guidance.
+6. Asking AI to summarise information.
+7. Asking AI to create outlines.
+8. Asking AI to improve writing.
+9. Asking AI to generate ideas responsibly.
+10. Reviewing and correcting AI output.
+C. Information Checking Skills
+1. Understanding that AI can be wrong.
+2. Checking facts with reliable sources.
+3. Comparing answers from more than one source.
+4. Identifying suspicious claims.
+5. Asking for references where appropriate.
+6. Checking dates and names.
+7. Checking figures and calculations.
+8. Avoiding blind copying.
+9. Recognising misinformation.
+10. Holding fast to what is good and true.
+D. AI for Learning Skills
+1. Using AI to explain difficult topics.
+2. Using AI to create study plans.
+3. Using AI to practise questions.
+4. Using AI to summarise notes.
+5. Using AI to generate revision quizzes.
+6. Using AI to improve grammar.
+7. Using AI to learn vocabulary.
+8. Using AI to practise presentations.
+9. Using AI to organise research ideas.
+10. Avoiding plagiarism and academic dishonesty.
+E. AI for Work and Productivity Skills
+1. Drafting letters.
+2. Drafting reports.
+3. Creating meeting agendas.
+4. Summarising meeting notes.
+5. Preparing task lists.
+6. Creating simple plans.
+7. Organising information.
+8. Improving customer communication.
+9. Supporting data entry and record summaries.
+10. Saving time without reducing responsibility.
+F. AI for Enterprise Skills
+1. Generating business ideas.
+2. Preparing business plans.
+3. Creating product descriptions.
+4. Writing customer messages.
+5. Designing marketing content.
+6. Preparing simple budgets with human checking.
+7. Researching market needs.
+8. Creating social media content responsibly.
+9. Improving service quality.
+10. Supporting small business documentation.
+G. AI for Ministry and Community Service Skills
+1. Preparing teaching outlines.
+2. Drafting announcements.
+3. Organising community outreach plans.
+4. Preparing volunteer schedules.
+5. Creating simple training materials.
+6. Supporting translation awareness.
+7. Summarising meeting notes.
+8. Creating prayer guides responsibly.
+9. Preparing communication materials.
+10. Avoiding replacing prayer, Scripture and spiritual discernment with AI.
+H. AI Ethics and Safety Skills
+1. Avoiding plagiarism.
+2. Avoiding fake documents.
+3. Avoiding impersonation.
+4. Avoiding cybercrime.
+5. Avoiding misinformation.
+6. Protecting personal data.
+7. Protecting organisational data.
+8. Avoiding harmful content.
+9. Respecting copyright.
+10. Using AI with honesty and accountability.
+I. Data Privacy Skills
+1. Understanding personal information.
+2. Understanding confidential information.
+3. Knowing what not to share with AI.
+4. Protecting names, addresses, phone numbers and passwords.
+5. Protecting financial records.
+6. Protecting student or client information.
+7. Protecting ministry and organisational information.
+8. Using anonymised examples where possible.
+9. Reporting data mistakes early.
+10. Respecting confidentiality.
+J. AI Enterprise and Employability Skills
+1. AI-assisted typing services.
+2. AI-assisted document drafting.
+3. AI-assisted CV and letter support.
+4. AI-assisted social media content support.
+5. AI-assisted lesson note support.
+6. AI-assisted business planning support.
+7. AI-assisted customer service support.
+8. AI-assisted translation awareness.
+9. AI-assisted data organisation.
+10. AI literacy training support.
+
+5. Weekly Topics for Seven Months
+The seven-month classroom and practical phase is divided into twenty-eight training weeks. Each week should include teaching, demonstration, supervised practice, digital ethics, group activity, reflection and character formation.
+
+Month 1: Introduction to AI, Wisdom and Responsible Technology
+Week 1: What Is Artificial Intelligence?
+Teaching Focus
+Meaning of AI, simple examples of AI, where AI is used, AI as a tool and the difference between human beings and machines.
+Scripture for the Week
+Proverbs 4:7“Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.”
+Daily Practical Activities
+1. Day 1: Discuss what trainees have heard about AI.
+2. Day 2: Identify examples of AI in phones, search tools, translation tools and chat tools.
+3. Day 3: Discuss what AI can do and what it cannot do.
+4. Day 4: Compare AI assistance with human wisdom and responsibility.
+5. Day 5: Write a reflection on why AI must be used with wisdom.
+Character Lesson
+Technology without wisdom can mislead people. Wisdom must guide the use of AI.
+
+Week 2: AI Is a Tool, Not God
+Teaching Focus
+AI as a human-made tool, limits of AI, human responsibility, spiritual discernment, prayer, Scripture and conscience.
+Scripture for the Week
+James 1:5“If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not.”
+Daily Practical Activities
+1. Day 1: Discuss why AI should not replace God’s wisdom.
+2. Day 2: List situations where human judgement is still needed.
+3. Day 3: Discuss why AI should not replace prayer, Scripture or spiritual counsel.
+4. Day 4: Prepare a “Wise Use of AI” poster.
+5. Day 5: Write a personal pledge on using AI under the fear of God.
+Character Lesson
+AI may give information, but wisdom comes from God. Trainees must not worship technology.
+
+Week 3: Benefits and Opportunities of AI
+Teaching Focus
+AI for learning, business, communication, productivity, creativity, records, translation awareness, planning and problem-solving.
+Scripture for the Week
+Daniel 1:17“As for these four children, God gave them knowledge and skill in all learning and wisdom.”
+Daily Practical Activities
+1. Day 1: List ways AI can help students learn.
+2. Day 2: List ways AI can help small businesses.
+3. Day 3: List ways AI can help offices and organisations.
+4. Day 4: List ways AI can support ministry and community service.
+5. Day 5: Prepare a chart showing useful AI opportunities.
+Character Lesson
+Skill must be used for service, not pride. AI should help trainees serve better.
+
+Week 4: Risks, Limits and Dangers of AI
+Teaching Focus
+Wrong answers, fake information, bias, privacy risks, overdependence, plagiarism, laziness, fake images, scams and deception.
+Scripture for the Week
+1 Thessalonians 5:21“Prove all things; hold fast that which is good.”
+Daily Practical Activities
+1. Day 1: Discuss examples of wrong or misleading AI answers.
+2. Day 2: Identify risks of copying AI work without checking.
+3. Day 3: Discuss why private information should not be shared carelessly.
+4. Day 4: Prepare an AI risk checklist.
+5. Day 5: Write a reflection on why AI output must be tested.
+Character Lesson
+A wise trainee does not believe everything immediately. All things must be tested.
+
+Month 2: Prompt Writing, Asking Better Questions and Checking Answers
+Week 5: Introduction to Prompt Writing
+Teaching Focus
+Meaning of prompt, asking clear questions, giving context, stating the task and requesting the right format.
+Scripture for the Week
+Proverbs 18:15“The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.”
+Daily Practical Activities
+1. Day 1: Write simple questions for an AI tool.
+2. Day 2: Improve unclear prompts into clear prompts.
+3. Day 3: Add context to a prompt.
+4. Day 4: Ask for a response in bullet points, table or paragraph form.
+5. Day 5: Compare weak prompts and strong prompts.
+Character Lesson
+Wise people ask well. Better questions often produce better answers.
+
+Week 6: Giving Context and Clear Instructions
+Teaching Focus
+Audience, purpose, tone, length, examples, constraints and expected result.
+Scripture for the Week
+Habakkuk 2:2“And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.”
+Daily Practical Activities
+1. Day 1: Write a prompt for a school announcement.
+2. Day 2: Write a prompt for a business customer message.
+3. Day 3: Write a prompt for a training outline.
+4. Day 4: Add audience and purpose to each prompt.
+5. Day 5: Review prompts for clarity.
+Character Lesson
+Clear instructions help work move faster and reduce confusion.
+
+Week 7: Reviewing and Improving AI Output
+Teaching Focus
+Checking grammar, checking facts, improving tone, correcting mistakes, asking follow-up questions and editing output.
+Scripture for the Week
+2 Corinthians 13:5“Examine yourselves, whether ye be in the faith; prove your own selves.”
+Daily Practical Activities
+1. Day 1: Review a sample AI-generated paragraph.
+2. Day 2: Identify spelling and grammar issues.
+3. Day 3: Identify unclear statements.
+4. Day 4: Improve the paragraph manually.
+5. Day 5: Prepare a checklist for reviewing AI output.
+Character Lesson
+Review is not weakness. Careful checking improves quality.
+
+Week 8: Fact-Checking and Avoiding Misinformation
+Teaching Focus
+AI hallucination awareness, checking dates, names, places, quotations, figures, laws, health advice and important claims.
+Scripture for the Week
+Proverbs 14:15“The simple believeth every word: but the prudent man looketh well to his going.”
+Daily Practical Activities
+1. Day 1: Identify claims that need checking.
+2. Day 2: Compare an AI answer with a reliable source provided by the trainer.
+3. Day 3: Mark uncertain claims.
+4. Day 4: Practise asking AI to explain uncertainty.
+5. Day 5: Prepare a fact-checking guide.
+Character Lesson
+A prudent person does not believe every word. Important information must be checked.
+
+Month 3: AI for Learning, Writing, Research and Communication
+Week 9: AI as a Learning Assistant
+Teaching Focus
+Using AI to explain topics, create study plans, generate practice questions, summarise lessons and support revision.
+Scripture for the Week
+Proverbs 1:5“A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels.”
+Daily Practical Activities
+1. Day 1: Ask AI to explain a simple topic.
+2. Day 2: Ask AI to create a study plan.
+3. Day 3: Ask AI to prepare revision questions.
+4. Day 4: Answer the revision questions.
+5. Day 5: Reflect on how AI can support learning without replacing study.
+Character Lesson
+AI can support learning, but trainees must still study, think and practise.
+
+Week 10: AI for Writing and Editing
+Teaching Focus
+Drafting letters, improving grammar, simplifying text, changing tone, summarising and proofreading.
+Scripture for the Week
+Proverbs 25:11“A word fitly spoken is like apples of gold in pictures of silver.”
+Daily Practical Activities
+1. Day 1: Draft a simple letter with AI assistance.
+2. Day 2: Improve grammar in a paragraph.
+3. Day 3: Rewrite a message in a polite tone.
+4. Day 4: Summarise a short passage.
+5. Day 5: Manually review and improve the final text.
+Character Lesson
+Words matter. AI-assisted writing must still be truthful, respectful and suitable.
+
+Week 11: AI for Research Support
+Teaching Focus
+Generating research questions, outlining topics, summarising information, organising notes and avoiding plagiarism.
+Scripture for the Week
+Proverbs 18:15“The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.”
+Daily Practical Activities
+1. Day 1: Use AI to generate research questions on a safe topic.
+2. Day 2: Create an outline from the research question.
+3. Day 3: Summarise notes in the trainee’s own words.
+4. Day 4: Identify where sources are needed.
+5. Day 5: Prepare a simple research summary with proper acknowledgement.
+Character Lesson
+Research must be honest. AI should support thinking, not replace integrity.
+
+Week 12: AI for Professional Communication
+Teaching Focus
+Emails, announcements, customer messages, apology messages, meeting notes, reminders and respectful digital language.
+Scripture for the Week
+Colossians 4:6“Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.”
+Daily Practical Activities
+1. Day 1: Draft a professional email.
+2. Day 2: Draft a customer response.
+3. Day 3: Draft a meeting reminder.
+4. Day 4: Improve rude wording into respectful wording.
+5. Day 5: Prepare a professional communication portfolio.
+Character Lesson
+Digital communication must be gracious, respectful and clear.
+
+Month 4: AI for Work, Business, Ministry and Community Development
+Week 13: AI for Office Productivity
+Teaching Focus
+Task lists, meeting agendas, minutes, reports, summaries, schedules, office messages and document organisation.
+Scripture for the Week
+1 Corinthians 14:40“Let all things be done decently and in order.”
+Daily Practical Activities
+1. Day 1: Use AI to create a meeting agenda.
+2. Day 2: Use AI to summarise sample meeting notes.
+3. Day 3: Use AI to prepare a task list.
+4. Day 4: Use AI to draft a simple office report.
+5. Day 5: Review all outputs for accuracy and order.
+Character Lesson
+AI can support order, but the worker remains responsible for the final result.
+
+Week 14: AI for Small Business and Entrepreneurship
+Teaching Focus
+Business ideas, customer messages, product descriptions, simple business plans, marketing ideas and service improvement.
+Scripture for the Week
+Deuteronomy 8:18“But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth.”
+Daily Practical Activities
+1. Day 1: Use AI to generate business ideas for a local community.
+2. Day 2: Use AI to write a product description.
+3. Day 3: Use AI to create a customer message.
+4. Day 4: Use AI to outline a simple business plan.
+5. Day 5: Review the plan for honesty, realism and local relevance.
+Character Lesson
+Wealth creation must honour God. AI enterprise must be honest and useful.
+
+Week 15: AI for Ministry and Community Service
+Teaching Focus
+Announcements, teaching outlines, outreach planning, volunteer schedules, community needs assessment and service communication.
+Scripture for the Week
+Matthew 5:16“Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.”
+Daily Practical Activities
+1. Day 1: Use AI to draft a church or ministry announcement.
+2. Day 2: Use AI to prepare a community outreach checklist.
+3. Day 3: Use AI to create a volunteer schedule.
+4. Day 4: Use AI to outline a community service project.
+5. Day 5: Discuss why AI must not replace prayer, Scripture and pastoral guidance.
+Character Lesson
+Technology should help good works shine, but God must receive the glory.
+
+Week 16: AI for Agriculture, Construction and Practical Trades
+Teaching Focus
+Using AI for farm planning, maintenance checklists, safety reminders, construction reports, training notes and customer communication.
+Scripture for the Week
+Proverbs 24:3“Through wisdom is an house builded; and by understanding it is established.”
+Daily Practical Activities
+1. Day 1: Use AI to create a farm task checklist.
+2. Day 2: Use AI to draft a construction safety reminder.
+3. Day 3: Use AI to prepare a simple maintenance report.
+4. Day 4: Use AI to create customer communication for a technical service.
+5. Day 5: Review AI outputs for practicality and safety.
+Character Lesson
+Practical work still requires human skill, supervision and safety. AI should support, not replace, competence.
+
+Month 5: AI Ethics, Privacy, Safety and Digital Integrity
+Week 17: AI, Privacy and Confidential Information
+Teaching Focus
+Personal data, passwords, financial information, student records, customer data, ministry information and what not to share with AI.
+Scripture for the Week
+Proverbs 11:13“A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.”
+Daily Practical Activities
+1. Day 1: Define personal and confidential information.
+2. Day 2: Identify examples of information that should not be entered into AI tools.
+3. Day 3: Practise rewriting a prompt without private details.
+4. Day 4: Prepare a data privacy checklist.
+5. Day 5: Write a confidentiality pledge.
+Character Lesson
+A faithful person protects confidential matters. Digital tools must not become channels for careless disclosure.
+
+Week 18: Plagiarism, Copyright and Academic Honesty
+Teaching Focus
+Original work, copying, giving credit, using AI responsibly, school assignments, ministry materials and business content.
+Scripture for the Week
+Proverbs 10:9“He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.”
+Daily Practical Activities
+1. Day 1: Discuss plagiarism and why it is wrong.
+2. Day 2: Compare original writing and copied writing.
+3. Day 3: Use AI to generate ideas, then write in personal words.
+4. Day 4: Practise acknowledging help or sources where appropriate.
+5. Day 5: Prepare an academic honesty guide.
+Character Lesson
+A trainee must walk uprightly. AI must not be used to cheat.
+
+Week 19: Deepfakes, Fake Images and Digital Deception
+Teaching Focus
+Fake pictures, fake voices, impersonation, false news, manipulated media, reputational harm and responsible sharing.
+Scripture for the Week
+Exodus 20:16“Thou shalt not bear false witness against thy neighbour.”
+Daily Practical Activities
+1. Day 1: Discuss what false witness means in the digital world.
+2. Day 2: Identify signs that an image, video or message may be misleading.
+3. Day 3: Discuss why impersonation is wrong.
+4. Day 4: Prepare a responsible sharing checklist.
+5. Day 5: Write a digital truth pledge.
+Character Lesson
+Spreading falsehood online is still false witness. Trainees must not use AI to deceive.
+
+Week 20: AI, Fraud, Scams and Cybercrime Awareness
+Teaching Focus
+AI-assisted scams, fake messages, fake documents, phishing, impersonation, cybercrime and reporting suspicious activity.
+Scripture for the Week
+Proverbs 22:3“A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.”
+Daily Practical Activities
+1. Day 1: Identify examples of scam messages.
+2. Day 2: Discuss how AI can be misused for fraud.
+3. Day 3: Practise spotting suspicious requests.
+4. Day 4: Prepare a cyber safety response plan.
+5. Day 5: Discuss why trainees must never use AI for crime.
+Character Lesson
+A wise trainee avoids digital danger and refuses dishonest gain.
+
+Month 6: AI Productivity, Local Problem-Solving and Enterprise
+Week 21: AI for Personal Productivity and Time Management
+Teaching Focus
+Planning the day, reminders, study schedules, task prioritisation, goal tracking and avoiding digital laziness.
+Scripture for the Week
+Proverbs 21:5“The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want.”
+Daily Practical Activities
+1. Day 1: Use AI to create a daily schedule.
+2. Day 2: Use AI to organise tasks by priority.
+3. Day 3: Use AI to create a weekly learning plan.
+4. Day 4: Review the plan for realism.
+5. Day 5: Write a discipline plan for reducing wasted screen time.
+Character Lesson
+AI should support diligence, not laziness.
+
+Week 22: AI for Local Problem-Solving
+Teaching Focus
+Identifying community problems, generating solutions, analysing options, planning community projects and checking feasibility.
+Scripture for the Week
+Nehemiah 2:18“Then I told them of the hand of my God which was good upon me; as also the king’s words that he had spoken unto me. And they said, Let us rise up and build.”
+Daily Practical Activities
+1. Day 1: Identify one local community problem.
+2. Day 2: Use AI to brainstorm possible solutions.
+3. Day 3: Select realistic solutions and reject unrealistic ones.
+4. Day 4: Prepare a simple project plan.
+5. Day 5: Present the plan to the class.
+Character Lesson
+Ideas must become responsible action. Trainees must rise and build.
+
+Week 23: AI-Assisted Digital Services
+Teaching Focus
+Typing, editing, document formatting, CV drafting, customer messages, flyers, business plans and service quality.
+Scripture for the Week
+Proverbs 22:29“Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.”
+Daily Practical Activities
+1. Day 1: Create a sample AI-assisted document service.
+2. Day 2: Draft and edit a CV or application letter under supervision.
+3. Day 3: Create a simple flyer with AI-assisted wording.
+4. Day 4: Prepare a customer message for a small business.
+5. Day 5: Build a mini-portfolio of AI-assisted digital services.
+Character Lesson
+Diligence and quality make a worker valuable. AI should not reduce excellence.
+
+Week 24: AI Enterprise Opportunities and Responsible Business
+Teaching Focus
+AI-assisted services, pricing, customer trust, confidentiality, quality control, ethical limits and starting small.
+Scripture for the Week
+Deuteronomy 8:18“But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth.”
+Daily Practical Activities
+1. Day 1: List enterprise opportunities using AI responsibly.
+2. Day 2: Choose one AI-assisted service.
+3. Day 3: Prepare a service description.
+4. Day 4: Prepare a small-start budget.
+5. Day 5: Write an AI-assisted enterprise idea note.
+Character Lesson
+The power to create wealth comes from God. AI enterprise must be honest, safe and useful.
+
+Month 7: Advanced Practice, Departmental Project and Attachment Preparation
+Week 25: Departmental Mini-Project Planning
+Teaching Focus
+Planning an AI awareness project, team roles, tools, ethics, output, privacy, verification and presentation.
+Scripture for the Week
+Habakkuk 2:2“And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.”
+Daily Practical Activities
+1. Day 1: Choose a safe AI awareness mini-project.
+2. Day 2: Prepare project goals and expected results.
+3. Day 3: Prepare prompts, documents and verification checklist.
+4. Day 4: Assign team roles and ethical rules.
+5. Day 5: Submit project plan for trainer approval.
+Character Lesson
+Clear planning helps AI work remain useful, safe and accountable.
+
+Week 26: Departmental Mini-Project Implementation
+Teaching Focus
+Carrying out a supervised AI project with accuracy, privacy, teamwork, verification and final presentation.
+Scripture for the Week
+Nehemiah 4:6“So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work.”
+Daily Practical Activities
+1. Day 1: Prepare devices, prompts and working files.
+2. Day 2: Generate drafts or outputs under supervision.
+3. Day 3: Review, correct and verify outputs.
+4. Day 4: Prepare final document, presentation or awareness material.
+5. Day 5: Submit project progress report.
+Character Lesson
+Progress comes when people have a mind to work and the discipline to check their work.
+
+Week 27: Final Practical Demonstration and Portfolio
+Teaching Focus
+Demonstrating prompt writing, AI-assisted writing, fact-checking, privacy awareness, ethical use and portfolio evidence.
+Scripture for the Week
+2 Timothy 2:15“Study to shew thyself approved unto God, a workman that needeth not to be ashamed.”
+Daily Practical Activities
+1. Day 1: Demonstrate prompt writing.
+2. Day 2: Demonstrate reviewing and improving AI output.
+3. Day 3: Demonstrate fact-checking and privacy protection.
+4. Day 4: Organise AI awareness portfolio.
+5. Day 5: Present practical evidence to the trainer.
+Character Lesson
+A trained worker should not be ashamed. Diligence, ethics and competence prepare trainees for approval.
+
+Week 28: Industrial Attachment Preparation
+Teaching Focus
+Preparing for digital or administrative placement, supervisor conduct, data confidentiality, responsible AI use, daily logs and final readiness.
+Scripture for the Week
+Proverbs 22:29“Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.”
+Daily Practical Activities
+1. Day 1: Identify possible AI awareness attachment placements.
+2. Day 2: Prepare personal attachment learning goals.
+3. Day 3: Practise writing daily AI and digital skills attachment logs.
+4. Day 4: Review confidentiality, office conduct and responsible AI behaviour.
+5. Day 5: Complete final departmental readiness assessment.
+Character Lesson
+Diligence opens doors. A faithful AI-aware trainee can serve responsibly in modern workplaces.
+
+6. Daily Practical Activities
+Artificial Intelligence Awareness training must include daily practical work. Practical work must be carefully supervised. Trainees must not enter private information, passwords, financial records, confidential ministry documents, personal medical information, examination answers or client data into AI tools without proper approval and supervision.
+Daily practical activities should include:
+1. AI vocabulary review.
+2. Prompt writing practice.
+3. Improving weak prompts.
+4. Asking AI for explanations.
+5. Asking AI for summaries.
+6. Asking AI for outlines.
+7. Drafting professional messages.
+8. Drafting simple reports.
+9. Creating study plans.
+10. Creating revision questions.
+11. Reviewing AI output.
+12. Fact-checking exercises.
+13. Privacy protection exercises.
+14. Identifying misinformation.
+15. Identifying fake or suspicious content.
+16. AI ethics discussions.
+17. AI-assisted business idea planning.
+18. AI-assisted ministry communication practice.
+19. AI-assisted community project planning.
+20. AI-assisted document drafting.
+21. AI-assisted presentation preparation.
+22. AI safety checklist practice.
+23. Departmental mini-project.
+24. Daily work reflection.
+Daily Practical Session Format
+Each practical session should follow this order:
+1. Opening instruction.
+2. AI ethics reminder.
+3. Privacy and data safety reminder.
+4. Trainer demonstration.
+5. Supervised trainee practice.
+6. Output review.
+7. Fact-checking and correction.
+8. File saving and documentation.
+9. Reflection and learning record.
+10. Character lesson and closing reflection.
+
+7. Tools and Equipment Needed
+The department should use tools according to availability, safety and training level.
+ICT and AI Learning Equipment
+1. Desktop computers.
+2. Laptops.
+3. Tablets where available.
+4. Smartphones for controlled learning where approved.
+5. Internet access where available.
+6. Projector.
+7. Speakers where needed.
+8. Printer where available.
+9. Scanner where available.
+10. Stable power supply where available.
+Software and Digital Tools
+1. AI chat tool approved by the Academy.
+2. Word processing software.
+3. Spreadsheet software.
+4. Presentation software.
+5. Browser.
+6. Email platform.
+7. PDF reader.
+8. Basic design tool.
+9. Digital notebook or note-taking tool where available.
+10. Cloud storage where approved.
+Learning Materials
+1. AI vocabulary sheet.
+2. Prompt writing templates.
+3. AI ethics pledge.
+4. Fact-checking checklist.
+5. Privacy checklist.
+6. Responsible AI use guide.
+7. Sample prompts.
+8. Sample AI outputs for review.
+9. Misinformation awareness worksheet.
+10. Cyber safety checklist.
+11. Assignment templates.
+12. Portfolio folder.
+13. Attachment logbook.
+14. Practical assessment forms.
+15. Project report template.
+Office and Classroom Materials
+1. Notebooks.
+2. Pens.
+3. Pencils.
+4. Whiteboard.
+5. Markers.
+6. Flip chart.
+7. Filing folders.
+8. Printed worksheets.
+9. Group activity cards.
+10. Attendance sheet.
+Safety and Data Protection Materials
+1. Password safety guide.
+2. Data privacy poster.
+3. Confidentiality pledge.
+4. Device care checklist.
+5. Internet safety poster.
+6. Cybercrime warning guide.
+7. Responsible sharing guide.
+8. AI limitations poster.
+9. Verification guide.
+10. Reporting form for unsafe digital incidents.
+
+8. Safety Rules
+Artificial Intelligence Awareness includes ethical, digital, privacy, educational, spiritual and reputational risks. Trainees must use AI carefully and responsibly.
+General AI Safety Rules
+1. Do not share passwords with AI tools.
+2. Do not enter private personal information without approval.
+3. Do not enter confidential organisational records.
+4. Do not enter financial records without supervision.
+5. Do not enter medical information without proper authority.
+6. Do not use AI to cheat in assignments or examinations.
+7. Do not use AI to create fake documents.
+8. Do not use AI to impersonate another person.
+9. Do not use AI to spread false information.
+10. Do not use AI for cybercrime.
+11. Do not copy AI output blindly.
+12. Do not treat AI answers as always correct.
+13. Do not use AI to replace prayer, Scripture or spiritual counsel.
+14. Do not use AI to replace qualified professional advice in serious matters.
+15. Do not post AI-generated content without checking it.
+16. Do not use AI to insult, manipulate or deceive people.
+17. Do not create fake images or fake stories about people.
+18. Do not share harmful or indecent content.
+19. Report unsafe AI use to the trainer.
+20. Obey trainer and supervisor instructions at all times.
+Data Privacy Rules
+1. Remove names when using examples.
+2. Remove phone numbers, addresses and account details.
+3. Do not upload confidential documents without approval.
+4. Do not share student, client, patient, customer or ministry records.
+5. Use fictional examples for practice.
+6. Keep passwords private.
+7. Log out after using shared devices.
+8. Protect files from unauthorised access.
+9. Ask permission before using another person’s content.
+10. Report privacy mistakes immediately.
+AI Output Checking Rules
+1. Check dates.
+2. Check names.
+3. Check places.
+4. Check figures.
+5. Check Bible references.
+6. Check legal or policy information with proper sources.
+7. Check health information with qualified professionals.
+8. Check financial calculations.
+9. Check grammar and tone.
+10. Check whether the output is suitable for the audience.
+Academic and Workplace Integrity Rules
+1. Use AI to learn, not to cheat.
+2. Do not submit AI work as personal work without permission.
+3. Give acknowledgement where required.
+4. Rewrite in your own understanding.
+5. Do not falsify reports.
+6. Do not create fake certificates.
+7. Do not create fake references.
+8. Do not create fake receipts or invoices.
+9. Do not mislead supervisors about AI use.
+10. Maintain honesty in all digital work.
+Spiritual and Character Safety Rules
+1. Do not allow AI to replace God’s Word.
+2. Do not allow AI to replace prayer.
+3. Do not allow AI to replace obedience.
+4. Do not use AI to promote pride.
+5. Do not use AI to spread fear.
+6. Do not use AI to attack people.
+7. Do not use AI to manipulate emotions dishonestly.
+8. Do not use AI to promote ungodly content.
+9. Use AI to serve people.
+10. Let wisdom and character guide every use of technology.
+Safety Scripture
+1 Thessalonians 5:21“Prove all things; hold fast that which is good.”
+Safety Character Lesson
+Responsible AI use requires testing, checking, wisdom and honesty. A disciplined trainee must not blindly trust or misuse AI.
+
+9. Workshop and Practical Demonstrations
+The trainer should demonstrate before trainees practise. Demonstrations must be clear, simple and supervised.
+Key Demonstrations
+1. How to explain AI in simple language.
+2. How to open an approved AI tool.
+3. How to write a simple prompt.
+4. How to improve a weak prompt.
+5. How to give context in a prompt.
+6. How to ask AI for a summary.
+7. How to ask AI for an outline.
+8. How to ask AI for study questions.
+9. How to draft a professional email with AI support.
+10. How to review AI output.
+11. How to fact-check important claims.
+12. How to remove private information from a prompt.
+13. How to identify possible misinformation.
+14. How to avoid plagiarism.
+15. How to create an AI-assisted business idea.
+16. How to create an AI-assisted announcement.
+17. How to prepare a responsible social media post.
+18. How to prepare a simple AI safety checklist.
+19. How to organise an AI awareness portfolio.
+20. How to complete an attachment logbook.
+Demonstration Method
+Each demonstration should follow this format:
+1. Explain the purpose of the task.
+2. State the ethical rule.
+3. State the privacy rule.
+4. Demonstrate slowly.
+5. Explain each step.
+6. Show how to review the output.
+7. Show how to check facts.
+8. Allow trainees to practise with safe sample data.
+9. Correct mistakes immediately.
+10. Record lessons in the department logbook.
+Demonstration Scripture
+Proverbs 4:7“Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.”
+Demonstration Character Lesson
+Trainees should not only copy prompts. They must understand how to use AI wisely, safely and honestly.
+
+10. Practical Assignments
+Practical assignments should test real competence, wisdom, ethics, accuracy and responsible use.
+Individual Assignments
+1. Define twenty AI terms in simple language.
+2. Write one page on “AI Is a Tool, Not God.”
+3. Prepare ten good prompts for learning.
+4. Improve ten weak prompts.
+5. Use AI to create a study plan and review it manually.
+6. Use AI to draft a professional email and edit it.
+7. Use AI to summarise a short passage and verify the summary.
+8. Prepare a fact-checking checklist.
+9. Prepare a data privacy checklist.
+10. Write one page on the dangers of copying AI output blindly.
+11. Prepare a responsible AI use pledge.
+12. Prepare an AI-assisted business idea note.
+13. Prepare an AI safety poster.
+14. Prepare a personal attachment learning goal sheet.
+Group Assignments
+1. Prepare an AI awareness presentation.
+2. Prepare a poster on AI benefits and risks.
+3. Create a prompt writing guide for beginners.
+4. Create a fact-checking guide.
+5. Create a data privacy awareness campaign.
+6. Create a responsible AI use drama or role-play.
+7. Create an AI-assisted community service project plan.
+8. Create an AI-assisted enterprise plan.
+9. Carry out a departmental mini-project.
+10. Present an AI awareness training session to another group.
+Final Departmental Project Options
+Each trainee or group may complete one of the following:
+1. AI awareness booklet.
+2. Responsible AI use poster campaign.
+3. Prompt writing guide.
+4. AI fact-checking guide.
+5. AI for small business project.
+6. AI for study support project.
+7. AI for ministry communication project.
+8. AI privacy and ethics project.
+9. AI-assisted digital services portfolio.
+10. AI awareness enterprise plan.
+
+11. Assessment Methods
+Assessment should cover knowledge, prompt writing, ethical use, fact-checking, privacy awareness, practical AI use, character and enterprise understanding.
+A. Attendance and Punctuality
+Assess:
+1. Daily attendance.
+2. Arrival time.
+3. Participation in practical sessions.
+4. Completion of assigned duties.
+B. AI Knowledge Assessment
+Assess ability to:
+1. Explain AI in simple language.
+2. Describe common uses of AI.
+3. Explain AI as a tool.
+4. Explain the limits of AI.
+5. Identify benefits of AI.
+6. Identify risks of AI.
+7. Explain why AI output must be checked.
+8. Explain why AI should not replace human responsibility.
+9. Explain why AI should not replace God’s wisdom.
+10. Explain responsible AI behaviour.
+C. Prompt Writing Assessment
+Assess ability to:
+1. Write clear prompts.
+2. Give proper context.
+3. State expected output.
+4. Ask follow-up questions.
+5. Request simple explanations.
+6. Request summaries.
+7. Request outlines.
+8. Request professional communication.
+9. Improve weak prompts.
+10. Review the usefulness of AI output.
+D. Practical AI Use Assessment
+Assess ability to:
+1. Use AI for learning support.
+2. Use AI for writing support.
+3. Use AI for planning support.
+4. Use AI for business idea support.
+5. Use AI for communication support.
+6. Use AI for community project planning.
+7. Edit AI-generated output.
+8. Check AI-generated information.
+9. Protect private information.
+10. Prepare an AI-assisted portfolio.
+E. Ethics, Privacy and Safety Assessment
+Assess:
+1. Data privacy awareness.
+2. Avoidance of plagiarism.
+3. Avoidance of fake documents.
+4. Avoidance of impersonation.
+5. Avoidance of misinformation.
+6. Responsible sharing.
+7. Copyright awareness.
+8. Confidentiality.
+9. Refusal to use AI for fraud.
+10. Honest acknowledgement of AI support where required.
+F. Enterprise Assessment
+Assess ability to:
+1. Identify AI-assisted enterprise opportunities.
+2. Prepare a simple service description.
+3. Identify customers.
+4. Estimate basic costs.
+5. Explain privacy and ethical limits.
+6. Prepare a simple AI-assisted enterprise plan.
+G. Character Assessment
+Assess:
+1. Wisdom.
+2. Honesty.
+3. Diligence.
+4. Humility.
+5. Accuracy.
+6. Patience.
+7. Digital discipline.
+8. Teachability.
+9. Confidentiality.
+10. Responsibility.
+11. Teamwork.
+12. Truthfulness.
+H. Suggested Assessment Weighting
+1. Attendance and punctuality: 10%.
+2. AI knowledge and understanding: 20%.
+3. Prompt writing and practical AI use: 25%.
+4. Fact-checking, privacy and ethics: 20%.
+5. Enterprise planning: 10%.
+6. Character and teamwork: 15%.
+Assessment Scripture
+2 Corinthians 13:5“Examine yourselves, whether ye be in the faith; prove your own selves.”
+Assessment Character Lesson
+Assessment is not punishment. It helps trainees know whether they are wise, responsible, ethical and ready for greater digital responsibility.
+
+12. Character Lessons Linked to the Department
+Artificial Intelligence Awareness is a strong department for character formation. It teaches wisdom, humility, truthfulness, caution, responsibility, diligence, creativity and accountability.
+
+A. Wisdom
+AI must be used with wisdom.
+Scripture
+Proverbs 4:7“Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.”
+Character Lesson
+A trainee must not use AI foolishly. Wisdom must guide knowledge.
+
+B. Skill and Learning
+God gives knowledge and skill.
+Scripture
+Daniel 1:17“As for these four children, God gave them knowledge and skill in all learning and wisdom.”
+Character Lesson
+Modern skills should be developed with humility and discipline.
+
+C. Dependence on God
+True wisdom comes from God.
+Scripture
+James 1:5“If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not.”
+Character Lesson
+AI cannot replace God’s wisdom. Trainees must seek God first.
+
+D. Verification
+All information must be tested.
+Scripture
+1 Thessalonians 5:21“Prove all things; hold fast that which is good.”
+Character Lesson
+AI output must be checked before it is trusted or shared.
+
+E. Excellence
+AI should support excellent work.
+Scripture
+Colossians 3:23“And whatsoever ye do, do it heartily, as to the Lord, and not unto men.”
+Character Lesson
+AI must not make trainees lazy. Work must still be done heartily.
+
+F. Truthfulness
+AI must not be used to lie.
+Scripture
+Ephesians 4:25“Wherefore putting away lying, speak every man truth with his neighbour.”
+Character Lesson
+Trainees must not use AI to create false reports, fake documents or deceptive messages.
+
+G. Confidentiality
+Private matters must be protected.
+Scripture
+Proverbs 11:13“A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.”
+Character Lesson
+A faithful trainee protects personal and organisational information.
+
+H. Uprightness
+Digital integrity matters.
+Scripture
+Proverbs 10:9“He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.”
+Character Lesson
+Secret digital dishonesty will eventually damage trust.
+
+I. Caution
+Digital danger must be avoided.
+Scripture
+Proverbs 22:3“A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.”
+Character Lesson
+A wise trainee avoids scams, fraud, unsafe links and harmful content.
+
+J. Diligence
+AI users must still be diligent.
+Scripture
+Proverbs 22:29“Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.”
+Character Lesson
+Diligence, not mere access to AI, opens doors.
+
+13. Entrepreneurship Opportunities in Artificial Intelligence Awareness
+Trainees should be taught that AI awareness can create employment and enterprise opportunities. However, AI enterprise must be built on honesty, privacy, accuracy, safety and proper human review.
+Possible Enterprise Opportunities
+1. AI-assisted typing services.
+2. AI-assisted document drafting.
+3. AI-assisted CV and application letter support.
+4. AI-assisted business plan support.
+5. AI-assisted social media content support.
+6. AI-assisted flyer wording support.
+7. AI-assisted customer message support.
+8. AI-assisted lesson note support.
+9. AI-assisted study guide preparation.
+10. AI-assisted meeting agenda preparation.
+11. AI-assisted meeting summary support.
+12. AI-assisted translation awareness support.
+13. AI-assisted report drafting.
+14. AI-assisted proposal drafting.
+15. AI-assisted community project planning.
+16. AI literacy training for beginners.
+17. Prompt writing support.
+18. AI ethics awareness sessions.
+19. AI safety poster design.
+20. Small business digital communication support.
+21. Church and ministry communication support.
+22. Youth digital productivity coaching.
+23. AI-assisted research organisation support.
+24. AI-assisted presentation preparation.
+25. Youth AI awareness cooperative.
+Simple AI-Assisted Enterprise Plan Format
+Each trainee should be able to prepare a simple plan with the following:
+1. Business name.
+2. AI-assisted service offered.
+3. Problem being solved.
+4. Target customers.
+5. AI tool or digital tool needed.
+6. Human skill needed.
+7. Start-up cost.
+8. Pricing method.
+9. Privacy protection plan.
+10. Fact-checking plan.
+11. Quality control plan.
+12. Ethical limits.
+13. Marketing method.
+14. Record keeping method.
+15. Mentor or professional support.
+AI Enterprise Ethics
+Trainees must not:
+1. Claim AI-generated work is fully human work where disclosure is required.
+2. Create fake certificates.
+3. Create fake receipts.
+4. Create fake references.
+5. Create fake identities.
+6. Impersonate another person.
+7. Use client information carelessly.
+8. Share confidential documents with AI without permission.
+9. Spread false information.
+10. Create harmful or deceptive content.
+11. Overcharge dishonestly.
+12. Promise perfect AI answers.
+13. Give professional legal, medical or financial advice beyond competence.
+14. Submit unchecked AI output to customers.
+15. Use AI for fraud, scams or cybercrime.
+Entrepreneurship Scripture
+Deuteronomy 8:18“But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth.”
+Entrepreneurship Character Lesson
+The ability to create wealth comes from God. AI-assisted enterprise must be built on wisdom, honesty, competence, privacy, verification and faithful service.
+
+14. Industrial Attachment Preparation
+Before industrial attachment, Artificial Intelligence Awareness trainees should be prepared for placement in offices, schools, ICT centres, cyber cafés, digital service businesses, media units, NGOs, ministries, churches, administrative departments, training centres or supervised technology-support environments.
+Attachment Readiness Areas
+Trainees should know how to:
+1. Report to the host organisation.
+2. Introduce themselves respectfully.
+3. Obey office and ICT rules.
+4. Use AI only with approval where required.
+5. Respect data confidentiality.
+6. Avoid unauthorised access to records.
+7. Keep daily attachment logs.
+8. Submit weekly reports.
+9. Respect supervisors and colleagues.
+10. Ask questions politely.
+11. Observe before acting.
+12. Protect devices and files.
+13. Review AI output before use.
+14. Report digital mistakes early.
+15. Avoid gossip about organisational information.
+16. Maintain spiritual and moral discipline.
+Attachment Learning Goals
+Each trainee should prepare goals such as:
+1. Learn responsible AI use in the workplace.
+2. Improve prompt writing.
+3. Practise AI-assisted document drafting.
+4. Practise AI-assisted communication.
+5. Learn office data confidentiality.
+6. Learn digital filing.
+7. Practise fact-checking.
+8. Observe digital workflow.
+9. Improve supervisor communication.
+10. Prepare for future AI-assisted employment or enterprise.
+Daily Attachment Log Format
+1. Day number.
+2. Host organisation.
+3. AI or digital task observed.
+4. Task performed under supervision.
+5. Tool or software used.
+6. Skill learnt.
+7. AI ethics lesson.
+8. Data privacy lesson.
+9. Fact-checking lesson.
+10. Challenge faced.
+11. Question asked.
+12. Supervisor comment.
+Attachment Scripture
+Colossians 3:23“And whatsoever ye do, do it heartily, as to the Lord, and not unto men.”
+Attachment Character Lesson
+During attachment, trainees must use AI and digital tools faithfully, responsibly and honestly, even when Academy trainers are not watching.
+
+15. Expected Competence by Graduation
+By graduation, an Artificial Intelligence Awareness trainee should not be expected to function as an advanced AI engineer or professional data scientist. However, the trainee should have strong foundational AI literacy, safe digital habits, responsible prompt writing ability and readiness for further supervised learning.
+A. Practical Competence
+The trainee should be able to:
+1. Explain AI in simple language.
+2. Give examples of common AI uses.
+3. Explain that AI is a tool, not God.
+4. Explain the limits of AI.
+5. Write simple prompts.
+6. Improve weak prompts.
+7. Give clear context in prompts.
+8. Use AI to support learning.
+9. Use AI to support writing.
+10. Use AI to support planning.
+11. Use AI to support business communication.
+12. Use AI to prepare simple outlines.
+13. Review AI output.
+14. Check important information.
+15. Protect private data.
+16. Avoid plagiarism.
+17. Avoid fake documents and deception.
+18. Prepare AI-assisted documents responsibly.
+19. Prepare an AI safety checklist.
+20. Follow AI ethics rules.
+B. Business Competence
+The trainee should be able to:
+1. Identify AI-assisted enterprise opportunities.
+2. Prepare a simple service description.
+3. Identify potential customers.
+4. Estimate basic start-up costs.
+5. Understand privacy protection.
+6. Explain fact-checking and quality control.
+7. Keep income and expense records.
+8. Prepare an AI-assisted enterprise plan.
+9. Work in a digital services cooperative.
+10. Start small under guidance.
+C. Character Competence
+The trainee should demonstrate:
+1. Wisdom.
+2. Honesty.
+3. Diligence.
+4. Humility.
+5. Accuracy.
+6. Patience.
+7. Digital discipline.
+8. Confidentiality.
+9. Truthfulness.
+10. Teachability.
+11. Responsibility.
+12. Stewardship.
+D. Workplace Competence
+The trainee should be able to:
+1. Follow supervisor instructions.
+2. Work under supervision.
+3. Keep daily logs.
+4. Submit weekly reports.
+5. Communicate respectfully.
+6. Report digital mistakes early.
+7. Accept correction.
+8. Protect workplace data.
+9. Protect confidential information.
+10. Represent the Academy with honour.
+Graduation Scripture
+2 Timothy 2:15“Study to shew thyself approved unto God, a workman that needeth not to be ashamed.”
+Graduation Character Lesson
+By graduation, trainees should be workers who are not ashamed because they have learnt with diligence, practised with discipline and used technology with integrity.
+
+16. Departmental Trainer’s Checklist
+The trainer should ensure that every trainee has completed the following before graduation:
+1. AI orientation.
+2. AI as a tool lesson.
+3. AI benefits lesson.
+4. AI risks lesson.
+5. Prompt writing practice.
+6. Prompt improvement exercise.
+7. Context writing exercise.
+8. AI output review practice.
+9. Fact-checking exercise.
+10. AI for learning practice.
+11. AI for writing practice.
+12. AI for research support practice.
+13. AI for professional communication practice.
+14. AI for office productivity practice.
+15. AI for business support practice.
+16. AI for ministry and community service practice.
+17. AI for practical trades awareness.
+18. Privacy and confidentiality training.
+19. Plagiarism and copyright training.
+20. Deepfake and misinformation awareness.
+21. AI fraud and scam awareness.
+22. AI productivity exercise.
+23. Local problem-solving exercise.
+24. AI-assisted digital service portfolio.
+25. AI enterprise idea note.
+26. Departmental mini-project.
+27. Final practical demonstration.
+28. Attachment readiness form.
+29. Character assessment.
+
+17. Departmental Closing Charge
+Artificial Intelligence Awareness is a timely and practical field. Through responsible AI use, trainees can learn faster, write better, organise information, support businesses, communicate clearly, serve ministries, solve problems and prepare for the future of work.
+But AI must never be used without wisdom. It must not replace God, prayer, Scripture, character, human responsibility or professional judgement. It must not be used for fraud, laziness, deception, plagiarism, gossip, fake documents or harmful content.
+The Academy is raising trainees who will use AI wisely, not foolishly. They must test information, protect privacy, honour truth, respect people, serve communities and remain faithful to God.
+Closing Scripture
+Psalm 90:17“And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.”
+Final Charge
+Use AI with wisdom.Do not worship technology.Seek God above machine answers.Ask clear questions.Check every important output.Protect private information.Do not cheat.Do not deceive.Do not spread falsehood.Use technology to serve.Let God establish the work of your hands.

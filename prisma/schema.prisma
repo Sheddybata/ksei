@@ -1,0 +1,270 @@
+// Local default is SQLite so the portal runs without a database server.
+// For PostgreSQL or Supabase, change provider to "postgresql", set DATABASE_URL
+// to the connection string, and run `npm run db:setup`.
+// A matching PostgreSQL script lives at prisma/supabase.sql.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id             String           @id @default(cuid())
+  email          String           @unique
+  passwordHash   String
+  role           String
+  name           String
+  createdAt      DateTime         @default(now())
+  profile        Profile?
+  student        Student?
+  notifications  Notification[]
+  submissions    Submission[]
+  grades         Grade[]
+  moduleProgress ModuleProgress[]
+  taughtCourses  Course[]         @relation("CourseInstructor")
+}
+
+model Profile {
+  id       String  @id @default(cuid())
+  userId   String  @unique
+  user     User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  phone    String?
+  state    String?
+  address  String?
+  photoUrl String?
+  bio      String?
+}
+
+model Program {
+  id           String        @id @default(cuid())
+  name         String
+  slug         String        @unique
+  summary      String
+  description  String
+  category     String
+  courses      Course[]
+  applications Application[]
+  students     Student[]
+}
+
+model Application {
+  id             String            @id @default(cuid())
+  reference      String            @unique
+  fullName       String
+  email          String
+  phone          String
+  state          String
+  dateOfBirth    String
+  educationLevel String
+  statement      String
+  commitment     Boolean       @default(false)
+  photoIdUrl     String?
+  documentUrl    String?
+  status         String            @default("PENDING")
+  reviewerNote   String?
+  submittedAt    DateTime          @default(now())
+  reviewedAt     DateTime?
+  programId      String
+  program        Program           @relation(fields: [programId], references: [id])
+  courseId       String?
+  course         Course?           @relation(fields: [courseId], references: [id])
+  student        Student?
+
+  @@index([status])
+  @@index([email])
+}
+
+model Course {
+  id           String        @id @default(cuid())
+  code         String        @unique
+  title        String
+  description  String
+  programId    String
+  program      Program       @relation(fields: [programId], references: [id])
+  instructorId String?
+  instructor   User?         @relation("CourseInstructor", fields: [instructorId], references: [id])
+  modules      Module[]
+  assessments  Assessment[]
+  enrollments  Enrollment[]
+  applications Application[]
+  grades       Grade[]
+  createdAt    DateTime      @default(now())
+}
+
+model Module {
+  id          String           @id @default(cuid())
+  courseId    String
+  course      Course           @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  title       String
+  order       Int
+  type        String
+  content     String
+  videoUrl    String?
+  resourceUrl String?
+  progress    ModuleProgress[]
+
+  @@index([courseId])
+}
+
+model ModuleProgress {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  moduleId    String
+  module      Module   @relation(fields: [moduleId], references: [id], onDelete: Cascade)
+  completed   Boolean  @default(true)
+  completedAt DateTime @default(now())
+
+  @@unique([userId, moduleId])
+}
+
+model Student {
+  id            String       @id @default(cuid())
+  userId        String       @unique
+  user          User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  studentNumber String       @unique
+  programId     String
+  program       Program      @relation(fields: [programId], references: [id])
+  photoUrl      String?
+  issueDate     DateTime     @default(now())
+  status        String       @default("ACTIVE")
+  applicationId String?      @unique
+  application   Application? @relation(fields: [applicationId], references: [id])
+  enrollments   Enrollment[]
+  record        TraineeRecord?
+  journal       JournalEntry[]
+  reviews       WeeklyReview[]
+}
+
+model TraineeRecord {
+  id                 String  @id @default(cuid())
+  studentId          String  @unique
+  student            Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  academyMonth       Int     @default(1)
+  businessPlan       String  @default("")
+  organisation       String  @default("")
+  supervisorName     String  @default("")
+  mentorNote         String  @default("")
+  certificateStatus  String  @default("NOT_READY")
+  alumniOutcome      String  @default("")
+  alumniNote         String  @default("")
+}
+
+model JournalEntry {
+  id          String   @id @default(cuid())
+  studentId   String
+  student     Student  @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  kind        String
+  title       String
+  body        String
+  happenedOn  String
+  createdAt   DateTime @default(now())
+
+  @@index([studentId, kind])
+}
+
+model WeeklyReview {
+  id              String  @id @default(cuid())
+  studentId       String
+  student         Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  weekNumber      Int
+  character       Int
+  practical       Int
+  academic        Int
+  attendance      Int
+  leadership      Int
+  problemSolving  Int
+  service         Int
+  attachment      Int
+  note            String  @default("")
+
+  @@unique([studentId, weekNumber])
+}
+
+model Enrollment {
+  id         String   @id @default(cuid())
+  studentId  String
+  student    Student  @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  courseId   String
+  course     Course   @relation(fields: [courseId], references: [id])
+  progress   Int      @default(0)
+  enrolledAt DateTime @default(now())
+
+  @@unique([studentId, courseId])
+}
+
+model Assessment {
+  id           String         @id @default(cuid())
+  courseId     String
+  course       Course         @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  title        String
+  type         String
+  dueDate      DateTime?
+  instructions String?
+  gateOrder    Int?
+  questions    Question[]
+  submissions  Submission[]
+
+  @@index([courseId, gateOrder])
+}
+
+model Question {
+  id           String     @id @default(cuid())
+  assessmentId String
+  assessment   Assessment @relation(fields: [assessmentId], references: [id], onDelete: Cascade)
+  prompt       String
+  options      String
+  correctIndex Int
+  points       Int        @default(1)
+  order        Int
+}
+
+model Submission {
+  id           String     @id @default(cuid())
+  assessmentId String
+  assessment   Assessment @relation(fields: [assessmentId], references: [id], onDelete: Cascade)
+  userId       String
+  user         User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  answers      String
+  score        Int?
+  maxScore     Int?
+  feedback     String?
+  submittedAt  DateTime   @default(now())
+
+  @@unique([assessmentId, userId])
+}
+
+model Grade {
+  id        String   @id @default(cuid())
+  userId    String
+  courseId  String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  course    Course   @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  score     Float
+  feedback  String?
+  updatedAt DateTime @updatedAt
+
+  @@unique([userId, courseId])
+}
+
+model Notification {
+  id        String   @id @default(cuid())
+  userId    String?
+  user      User?    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  email     String?
+  title     String
+  body      String
+  read      Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+}
+
+model IdSequence {
+  year Int @id
+  last Int
+}

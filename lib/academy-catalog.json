@@ -1,0 +1,603 @@
+{
+  "departments": [
+    {
+      "id": "dept_formation",
+      "slug": "spiritual-formation",
+      "name": "Spiritual Formation and Kingdom Character",
+      "category": "Formation",
+      "summary": "Daily devotions, Bible study, prayer, Scripture memorisation, integrity training, counselling, mentorship, servant leadership, family values and Kingdom citizenship."
+    },
+    {
+      "id": "dept_leadership",
+      "slug": "leadership-nation-building",
+      "name": "Leadership and Nation-Building",
+      "category": "Leadership",
+      "summary": "Biblical leadership, public speaking, communication, community development, civil service ethics, public administration, nation building, stewardship and responsible citizenship."
+    },
+    {
+      "id": "dept_construction",
+      "slug": "construction-infrastructure",
+      "name": "Construction and Infrastructure",
+      "category": "Technical",
+      "summary": "Construction technology, road construction, building construction, survey and site management, basic construction safety, project supervision, site discipline and infrastructure maintenance."
+    },
+    {
+      "id": "dept_mechanical",
+      "slug": "heavy-equipment-mechanical",
+      "name": "Heavy Equipment and Mechanical",
+      "category": "Technical",
+      "summary": "Heavy equipment operations and maintenance, motor vehicle mechanics, workshop safety, preventive maintenance, basic diagnostics, repair discipline and equipment stewardship."
+    },
+    {
+      "id": "dept_welding",
+      "slug": "welding-fabrication",
+      "name": "Welding and Fabrication",
+      "category": "Technical",
+      "summary": "Welding basics, fabrication skills, metal work, safety procedures, tool handling, practical workshop assignments, quality control and entrepreneurship in fabrication."
+    },
+    {
+      "id": "dept_agriculture",
+      "slug": "agriculture-agribusiness",
+      "name": "Agriculture and Agribusiness",
+      "category": "Livelihood",
+      "summary": "Crop production, commercial farming, poultry and livestock, fish farming, farm management, agribusiness, food security, cooperative farming and agricultural entrepreneurship."
+    },
+    {
+      "id": "dept_finance",
+      "slug": "finance-accounting",
+      "name": "Finance, Accounting and Cooperative Development",
+      "category": "Enterprise",
+      "summary": "Basic accounting, record keeping, budgeting, personal financial management, cooperative development, financial stewardship, procurement basics, inventory management and ethical handling of money."
+    },
+    {
+      "id": "dept_enterprise",
+      "slug": "entrepreneurship",
+      "name": "Entrepreneurship and Business Development",
+      "category": "Enterprise",
+      "summary": "Business idea generation, business planning, customer service, marketing basics, costing and pricing, small business management, ethical entrepreneurship and business presentation."
+    },
+    {
+      "id": "dept_hospitality",
+      "slug": "hospitality-catering",
+      "name": "Hospitality and Catering",
+      "category": "Livelihood",
+      "summary": "Hospitality management, catering services, food hygiene, customer relations, housekeeping, event support, service excellence and hospitality entrepreneurship."
+    },
+    {
+      "id": "dept_ict",
+      "slug": "ict-digital-skills",
+      "name": "ICT, Digital Skills and Artificial Intelligence Awareness",
+      "category": "Livelihood",
+      "summary": "Basic computer literacy, internet use, email and office tools, digital communication, data entry, ICT for business, artificial intelligence awareness, responsible technology use and digital productivity."
+    },
+    {
+      "id": "dept_admin",
+      "slug": "administration-project-management",
+      "name": "Administration, Human Resource and Project Management",
+      "category": "Administration",
+      "summary": "Office administration, human resource management, project management, procurement and inventory, report writing, filing and documentation, meeting management and workplace ethics."
+    },
+    {
+      "id": "dept_communication",
+      "slug": "communication",
+      "name": "Communication and Public Engagement",
+      "category": "Leadership",
+      "summary": "Communication skills, public speaking, writing skills, presentation skills, media awareness, customer relations, conflict management and professional conduct."
+    }
+  ],
+  "modules": [
+    {
+      "title": "Agriculture and Agribusiness",
+      "departmentId": "dept_agriculture",
+      "file": "/programes/Agriculture and Agribusiness.docx",
+      "overview": "The Agriculture and Agribusiness Department trains young people to understand farming as a calling, a skill, a business and a tool for community development. The department teaches trainees how to produce food, care for the soil, plant crops, manage simple farm systems, keep farm records, reduce waste, market farm products and build small agricultural enterprises. Agriculture is not only about planting crops. It includes planning, soil care, seed selection, nursery work, irrigation, composting, pest control, harvesting, storage, processing, marketing, record keeping and business management. Agribusiness means treating agriculture as a productive enterprise. It teaches trainees to think beyond subsistence farming and begin to understand farming as a source of income, employment, food security and national development. This department is important because many communities need food, jobs, productive youth and sustainable rural development. A well-trained agriculture trainee can become a farmer, farm assistant, agribusiness operator, cooperative member, food processor, farm record keeper, input supplier or community food security worker.",
+      "purpose": "The purpose of the Agriculture and Agribusiness Department is to raise disciplined, skilled and God-fearing trainees who can use agriculture to feed families, create income, serve communities and contribute to national development. The department aims to:",
+      "aims": [
+        "Teach trainees the dignity of farming and food production.",
+        "Build practical knowledge of crop and basic livestock production.",
+        "Train trainees in soil preparation, planting, farm maintenance and harvesting.",
+        "Teach simple farm planning, budgeting and record keeping.",
+        "Help trainees understand agribusiness opportunities.",
+        "Build discipline, patience, diligence and stewardship through farm work.",
+        "Prepare trainees for industrial attachment in farms, agribusinesses, agricultural offices, food production centres and related organisations.",
+        "Equip trainees to start small agricultural enterprises after graduation."
+      ],
+      "skills": [
+        "Farm site selection.",
+        "Land clearing and preparation.",
+        "Soil identification.",
+        "Compost preparation.",
+        "Nursery bed preparation.",
+        "Seed selection.",
+        "Transplanting.",
+        "Spacing and planting."
+      ]
+    },
+    {
+      "title": "Artificial Intelligence Awareness",
+      "departmentId": "dept_ict",
+      "file": "/programes/Artificial Intelligence Awareness.docx",
+      "overview": "The Artificial Intelligence Awareness Department trains young people to understand the basic meaning, uses, opportunities, dangers, ethics and practical applications of Artificial Intelligence in everyday life, work, ministry, education, business and community development. Artificial Intelligence, often called AI, refers to computer systems that can perform tasks that normally require human intelligence, such as answering questions, generating text, recognising patterns, assisting with research, translating languages, analysing information, creating images, summarising documents and supporting decision-making. AI is not God. AI is not the Holy Spirit. AI is not a replacement for wisdom, character, prayer, Scripture, human responsibility or professional judgement. AI is a tool. Like every tool, it can be used for good or misused for harm. The Academy must therefore train trainees to understand AI with wisdom, discipline, caution and Kingdom character. This department does not aim to make trainees advanced AI engineers or data scientists within seven months. Rather, it gives them a strong foundation in AI awareness, responsible AI use, prompt writing, digital ethics, information checking, productivity, education support, business support, ministry support, workplace support, data privacy and AI-related enterprise opportunities. AI awareness is important because the world of work is changing. Trainees who understand how to use AI responsibly can become more productive, more employable, more creative and better prepared for the future. However, trainees must also learn that AI can produce wrong information, biased information, false images, fake documents and misleading answers. Therefore, AI output must always be checked. The Artificial Intelligence Awareness Department must train trainees to use AI for learning, service, creativity, problem-solving, productivity and community development, while avoiding deception, laziness, plagiarism, fraud, impersonation, misinformation and ungodly use.",
+      "purpose": "The purpose of the Artificial Intelligence Awareness Department is to raise disciplined, wise and God-fearing trainees who can understand and use AI tools responsibly for learning, work, enterprise, ministry and community impact. The department aims to:",
+      "aims": [
+        "Teach trainees the basic meaning of Artificial Intelligence.",
+        "Help trainees understand the difference between human intelligence and machine assistance.",
+        "Train trainees in safe and responsible use of AI tools.",
+        "Teach trainees how to write clear prompts and ask good questions.",
+        "Build awareness of AI strengths, limitations and risks.",
+        "Train trainees to check AI-generated information before using it.",
+        "Teach AI ethics, data privacy, copyright, plagiarism and digital responsibility.",
+        "Show trainees how AI can support office work, education, agriculture, business, hospitality, finance, ministry and community development."
+      ],
+      "skills": [
+        "Understanding the meaning of Artificial Intelligence.",
+        "Understanding AI as a tool, not a person.",
+        "Understanding common uses of AI.",
+        "Understanding the difference between AI assistance and human responsibility.",
+        "Understanding the importance of wisdom in technology.",
+        "Understanding the limits of AI.",
+        "Understanding that AI can make mistakes.",
+        "Understanding responsible AI use."
+      ]
+    },
+    {
+      "title": "Building Construction",
+      "departmentId": "dept_construction",
+      "file": "/programes/Building Construction.docx",
+      "overview": "The Building Construction Department trains young people to understand the basic principles, stages, materials, tools, safety practices and work discipline required in building construction. Building construction is the process of creating houses, classrooms, offices, shops, worship centres, hospitals, hostels and other structures that serve human needs. It includes site preparation, setting-out, foundation work, block work, concrete work, roofing awareness, plastering, flooring, painting, services awareness, maintenance and finishing. This department does not aim to turn trainees into fully qualified builders, engineers or architects within seven months. Rather, it gives trainees a strong practical foundation so they can work safely under supervision, assist skilled workers, understand building sites, keep simple records, care for tools and materials, and prepare for industrial attachment. Building Construction is a serious department because buildings affect human life. A poorly built structure can waste money, cause injury or even lead to loss of life. A well-trained trainee must therefore learn accuracy, patience, safety, teamwork, honesty and excellence.",
+      "purpose": "The purpose of the Building Construction Department is to raise disciplined, skilled and God-fearing trainees who can participate responsibly in building work under supervision and grow towards useful employment or enterprise. The department aims to:",
+      "aims": [
+        "Teach trainees the dignity and importance of building work.",
+        "Introduce trainees to the stages of building construction.",
+        "Train trainees in site discipline, safety and tool handling.",
+        "Teach basic measurement, setting-out and foundation awareness.",
+        "Introduce block work, mortar, concrete, formwork and finishing.",
+        "Build accuracy, patience, orderliness and teamwork.",
+        "Prepare trainees for industrial attachment on building sites and construction-related workplaces.",
+        "Help trainees identify honest enterprise opportunities in building services."
+      ],
+      "skills": [
+        "Understanding the meaning of building construction.",
+        "Identifying different types of buildings.",
+        "Understanding the stages of building work.",
+        "Knowing common building site roles.",
+        "Understanding site rules and discipline.",
+        "Understanding the importance of drawings.",
+        "Identifying common building defects.",
+        "Understanding building maintenance."
+      ]
+    },
+    {
+      "title": "Catering Services",
+      "departmentId": "dept_hospitality",
+      "file": "/programes/Catering Services.docx",
+      "overview": "To raise disciplined, hygienic, skilful, creative and God-fearing trainees who can prepare, present and serve food with excellence, integrity, safety, hospitality and entrepreneurial wisdom.",
+      "purpose": "The Catering Services Department exists to train young people in practical food preparation, kitchen hygiene, menu planning, food safety, customer service, costing, event catering, baking basics, local and continental dishes, food presentation, business management and industrial attachment readiness. The department will prepare trainees to become catering assistants, cooks, kitchen supervisors, food vendors, event caterers, restaurant workers, bakery assistants, food service entrepreneurs and community food service leaders.",
+      "aims": [],
+      "skills": [
+        "Wash hands correctly before handling food.",
+        "Clean and arrange a kitchen workspace.",
+        "Identify and use basic kitchen tools.",
+        "Prepare ingredients safely.",
+        "Cut, slice and measure ingredients properly.",
+        "Cook simple local meals.",
+        "Prepare simple soups and stews.",
+        "Prepare rice, beans, yam, plantain and basic staples."
+      ]
+    },
+    {
+      "title": "Communication Skills",
+      "departmentId": "dept_communication",
+      "file": "/programes/Communication Skills.docx",
+      "overview": "The Communication Skills Department trains young people to understand and practise clear, respectful, truthful and effective communication in personal life, workplace settings, ministry, business, leadership, public service and community development. Communication is the process of sending, receiving, understanding and responding to messages. It includes speaking, listening, writing, reading, body language, tone of voice, public presentation, digital communication, workplace reporting, conflict handling, customer interaction and team communication. No person can lead well, serve well, work well or build relationships well without communication. Good communication helps people understand instructions, solve problems, build trust, manage conflict, serve customers, present ideas, teach others, lead teams and represent organisations properly. Poor communication can lead to confusion, quarrels, offence, poor teamwork, wrong instructions, damaged relationships, failed projects and loss of trust. Therefore, trainees must learn to speak wisely, listen carefully, write clearly, ask questions respectfully and respond with self-control. The Communication Skills Department is not only about speaking English well. It is about communicating with character. A trainee must learn truthfulness, humility, patience, courtesy, confidence, accuracy and wisdom in speech. Words can heal or wound, build or destroy, encourage or discourage. Therefore, communication must be governed by the fear of God.",
+      "purpose": "The purpose of the Communication Skills Department is to raise disciplined, confident and God-fearing trainees who can communicate clearly, respectfully and effectively in personal, professional, ministry and community settings. The department aims to:",
+      "aims": [
+        "Teach trainees the meaning and importance of communication.",
+        "Train trainees in listening, speaking, reading and writing skills.",
+        "Teach respectful interpersonal communication.",
+        "Train trainees in workplace communication, reports, meetings and instructions.",
+        "Build confidence in presentations, group discussions and public interaction.",
+        "Teach digital communication, email etiquette and responsible messaging.",
+        "Train trainees to handle conflict, correction and difficult conversations wisely.",
+        "Develop truthfulness, courtesy, patience, humility and emotional control."
+      ],
+      "skills": [
+        "Understanding the meaning of communication.",
+        "Understanding why communication matters.",
+        "Understanding sender, message, receiver and feedback.",
+        "Understanding verbal communication.",
+        "Understanding non-verbal communication.",
+        "Understanding written communication.",
+        "Understanding digital communication.",
+        "Understanding communication barriers."
+      ]
+    },
+    {
+      "title": "Construction Technology",
+      "departmentId": "dept_construction",
+      "file": "/programes/Construction Technology.docx",
+      "overview": "The Construction Technology Department trains young people to understand the basic principles, practices and discipline of construction work. It introduces trainees to building materials, site preparation, simple measurements, block work, concrete work, safety, teamwork, site organisation, basic drawings, finishing awareness and construction-related enterprise. Construction is one of the most important fields for community development. Homes, schools, worship centres, hospitals, offices, roads, drainage systems and public buildings all require trained, disciplined and honest workers. This department does not aim to turn trainees into master builders within seven months. Rather, it gives them a strong foundation so they can work safely under supervision, understand construction sites, assist skilled workers, continue learning and prepare for industrial attachment in building and construction-related environments. The department also teaches trainees that construction work requires accuracy, patience, strength, teamwork, planning, discipline and integrity. A careless construction worker can waste materials, cause accidents and endanger lives. A faithful construction trainee must therefore learn to build with wisdom, safety and excellence.",
+      "purpose": "The purpose of the Construction Technology Department is to raise disciplined, skilled and God-fearing trainees who can participate responsibly in construction work, respect safety standards, support building projects and develop construction-related enterprise skills. The department aims to:",
+      "aims": [
+        "Teach trainees the dignity and importance of construction work.",
+        "Introduce trainees to basic construction tools, materials and site activities.",
+        "Train trainees in simple measurement, levelling awareness, block work and concrete basics.",
+        "Teach safe handling of tools, materials and construction equipment.",
+        "Build discipline, accuracy, patience and teamwork.",
+        "Prepare trainees for industrial attachment in construction companies, building sites, workshops, project offices and related organisations.",
+        "Help trainees understand business opportunities in construction services.",
+        "Develop trainees who can serve communities through safe, honest and quality work."
+      ],
+      "skills": [
+        "Understanding types of construction projects.",
+        "Identifying roles on a construction site.",
+        "Understanding site discipline.",
+        "Recognising basic building materials.",
+        "Understanding the importance of drawings and measurements.",
+        "Knowing basic construction stages.",
+        "Understanding site safety rules.",
+        "Respecting supervisors and skilled workers."
+      ]
+    },
+    {
+      "title": "Finance and Accounting",
+      "departmentId": "dept_finance",
+      "file": "/programes/Finance and Accounting.docx",
+      "overview": "The Finance and Accounting Department trains young people to understand the basic principles, discipline, records, tools, ethics and practical skills required for handling money, keeping accounts, preparing budgets, recording transactions and reporting financial activities. Finance deals with planning, managing and using money wisely. Accounting deals with recording, organising, checking and reporting financial information. Every organisation, ministry, business, farm, school, workshop, church, cooperative and household needs proper finance and accounting. This department does not aim to turn trainees into chartered accountants within seven months. Rather, it gives trainees a strong foundation so they can keep simple records, prepare budgets, manage petty cash under supervision, issue receipts, record income and expenses, prepare simple reports, understand savings, support small businesses and prepare for industrial attachment. Finance and Accounting is a department of trust. Anyone who handles money must be honest, accurate, orderly, discreet and accountable. A careless or dishonest finance worker can destroy a business, damage a ministry, cause debt, create conflict and lose public trust. The department therefore trains trainees to see money as a stewardship before God. They must learn that financial records must be truthful, money must be handled faithfully, and every transaction must be properly documented.",
+      "purpose": "The purpose of the Finance and Accounting Department is to raise disciplined, honest and God-fearing trainees who can support businesses, ministries, organisations and community projects through sound financial record keeping and responsible money management. The department aims to:",
+      "aims": [
+        "Teach trainees the meaning of finance and accounting.",
+        "Build basic understanding of income, expenses, assets, liabilities, capital and profit.",
+        "Train trainees in simple bookkeeping and record keeping.",
+        "Teach budgeting, savings, cost control and financial planning.",
+        "Train trainees in receipt writing, invoice awareness, petty cash records and cashbook preparation.",
+        "Introduce trainees to banking, reconciliation, payroll awareness and basic financial reporting.",
+        "Build honesty, accuracy, discipline, confidentiality and accountability.",
+        "Prepare trainees for industrial attachment in offices, businesses, cooperatives, farms, schools, churches, NGOs and accounting units."
+      ],
+      "skills": [
+        "Understanding the meaning of finance.",
+        "Understanding the meaning of accounting.",
+        "Understanding why records are important.",
+        "Understanding stewardship and accountability.",
+        "Understanding income and expenses.",
+        "Understanding profit and loss.",
+        "Understanding assets and liabilities at basic level.",
+        "Understanding budgets and savings."
+      ]
+    },
+    {
+      "title": "Fish Farming",
+      "departmentId": "dept_agriculture",
+      "file": "/programes/Fish Farming.docx",
+      "overview": "To raise disciplined, knowledgeable, hardworking and God-fearing trainees who can establish, manage and support profitable, hygienic and sustainable fish farming enterprises for food security, employment creation, community development and Kingdom impact.",
+      "purpose": "The Fish Farming Department exists to train young people in practical aquaculture skills, including pond preparation, fish stocking, feeding, water quality management, fish health, record keeping, harvesting, marketing, financial planning and responsible farm management. The department will prepare trainees to become fish farm assistants, pond managers, aquaculture entrepreneurs, community trainers, cooperative members, farm supervisors and responsible stewards of God’s creation.",
+      "aims": [],
+      "skills": [
+        "Clean and prepare a fish pond or tank.",
+        "Check water level.",
+        "Observe water colour and smell.",
+        "Acclimatise fish before stocking.",
+        "Stock fingerlings or juveniles carefully.",
+        "Feed fish correctly.",
+        "Observe feeding behaviour.",
+        "Remove uneaten feed where necessary."
+      ]
+    },
+    {
+      "title": "Heavy Equipment Operations",
+      "departmentId": "dept_mechanical",
+      "file": "/programes/Heavy Equipment Operations.docx",
+      "overview": "The Heavy Equipment Operations Department trains young people to understand the basic principles, safety requirements, discipline and practical awareness needed for working around and operating heavy construction equipment. Heavy equipment includes machines used for construction, road work, earthmoving, agriculture, mining support, building projects, drainage work and site preparation. Examples include excavators, bulldozers, graders, wheel loaders, backhoe loaders, rollers, compactors, tipper trucks, cranes, forklifts and tractors. This department does not aim to turn trainees into fully licensed machine operators within seven months. Heavy equipment is powerful and dangerous. No trainee should operate any machine without proper approval, certified supervision and safety control. The purpose of this department is to give trainees strong foundational knowledge, safety discipline, machine awareness, pre-operation inspection skills, site communication skills, logbook habits and supervised practical exposure. A heavy equipment operator must be alert, disciplined, calm, teachable, safety-conscious and responsible. A careless operator can destroy property, waste fuel, damage equipment, injure workers or cause death. Therefore, this department must train trainees to respect machines, obey supervisors, observe safety rules and work with excellence.",
+      "purpose": "The purpose of the Heavy Equipment Operations Department is to raise disciplined, safety-conscious and God-fearing trainees who can work responsibly around heavy machines, assist operators, understand basic machine functions and prepare for further supervised training or industrial attachment. The department aims to:",
+      "aims": [
+        "Teach trainees the importance of heavy equipment in construction, roads, agriculture and community development.",
+        "Introduce trainees to common heavy machines and their uses.",
+        "Train trainees in machine safety, site safety and operator discipline.",
+        "Teach pre-start inspection awareness and daily machine checks.",
+        "Build understanding of earthmoving, loading, grading, compaction and material handling.",
+        "Train trainees in communication, hand signals, banksman awareness and teamwork.",
+        "Teach fuel discipline, machine care, logbook keeping and reporting.",
+        "Prepare trainees for industrial attachment with construction companies, road contractors, equipment yards, farms, public works departments and machine workshops."
+      ],
+      "skills": [
+        "Understanding the meaning of heavy equipment.",
+        "Identifying common heavy machines.",
+        "Understanding the uses of different machines.",
+        "Knowing the role of the operator.",
+        "Knowing the role of the banksman or signal person.",
+        "Understanding the role of mechanics and maintenance teams.",
+        "Understanding site rules.",
+        "Understanding danger zones around machines."
+      ]
+    },
+    {
+      "title": "Hospitality Management",
+      "departmentId": "dept_hospitality",
+      "file": "/programes/Hospitality Management.docx",
+      "overview": "The Hospitality Management Department trains young people to understand the principles, discipline, character, skills and practical service required in the hospitality industry. Hospitality is the act of receiving, serving, caring for and creating comfort for guests, clients, visitors and customers. It includes hotel service, guest house management, front desk service, housekeeping, food and beverage service, event support, customer relations, facility care, bookings, guest records and service excellence. Hospitality is not only about hotels. It is useful in ministries, conference centres, restaurants, schools, hospitals, guest houses, offices, retreats, events, tourism centres, catering businesses and community service projects. This department teaches trainees to serve with excellence, humility, cleanliness, courtesy, emotional control, punctuality and integrity. A hospitality worker must be polite, neat, alert, respectful, patient and trustworthy. A careless hospitality worker can offend guests, damage the reputation of an organisation, spread infection through poor hygiene, mismanage bookings, lose property or create disorder. Therefore, trainees must learn that hospitality is a ministry of care, order and honour.",
+      "purpose": "The purpose of the Hospitality Management Department is to raise disciplined, courteous and God-fearing trainees who can serve guests, manage basic hospitality duties, support events and work in hospitality-related organisations with excellence. The department aims to:",
+      "aims": [
+        "Teach trainees the meaning and value of hospitality.",
+        "Build a culture of honour, service and guest care.",
+        "Train trainees in front desk, reception and customer service basics.",
+        "Teach housekeeping, cleaning, room preparation and facility care.",
+        "Train trainees in food and beverage service awareness.",
+        "Teach event support, table setting, booking records and guest handling.",
+        "Build discipline, patience, courtesy, cleanliness and emotional maturity.",
+        "Prepare trainees for industrial attachment in hotels, guest houses, event centres, restaurants, conference centres, ministries, hospitals and service organisations."
+      ],
+      "skills": [
+        "Understanding the meaning of hospitality.",
+        "Understanding guest care.",
+        "Understanding the hospitality industry.",
+        "Knowing the role of hotels, guest houses and event centres.",
+        "Understanding service standards.",
+        "Understanding courtesy and respect.",
+        "Understanding professional appearance.",
+        "Understanding confidentiality."
+      ]
+    },
+    {
+      "title": "ICT and Digital Skills",
+      "departmentId": "dept_ict",
+      "file": "/programes/ICT and Digital Skills.docx",
+      "overview": "To raise disciplined, digitally competent, creative, ethical and God-fearing trainees who can use technology responsibly for learning, work, business, communication, service, productivity and community transformation.",
+      "purpose": "The ICT and Digital Skills Department exists to train young people in practical computer use, digital literacy, office productivity, internet research, online communication, cybersecurity awareness, digital content creation, basic data handling, artificial intelligence awareness, digital entrepreneurship and workplace readiness. The department will prepare trainees to become office assistants, digital clerks, ICT support assistants, content creators, data entry assistants, online business operators, digital entrepreneurs, administrative workers, social media assistants and responsible users of technology.",
+      "aims": [],
+      "skills": [
+        "Switch on and shut down a computer correctly.",
+        "Use a keyboard and mouse properly.",
+        "Type basic documents.",
+        "Create, save, rename, move and delete files.",
+        "Organise folders.",
+        "Use a word processor to create letters, reports and simple forms.",
+        "Format text, paragraphs, headings and tables.",
+        "Use spreadsheets for basic calculations and records."
+      ]
+    },
+    {
+      "title": "Motor Vehicle Mechanics",
+      "departmentId": "dept_mechanical",
+      "file": "/programes/Motor Vehicle Mechanics.docx",
+      "overview": "The Motor Vehicle Mechanics Department trains young people to understand the basic principles, tools, safety rules, service procedures and work discipline required in motor vehicle maintenance and repair. Motor vehicles are important for transport, business, agriculture, emergency response, family movement, ministry work and community development. A well-maintained vehicle can save time, protect lives and support productivity. A poorly maintained vehicle can break down, waste money, cause accidents and endanger people. This department introduces trainees to vehicle systems such as the engine, lubrication system, cooling system, fuel system, battery, electrical system, ignition awareness, tyres, brakes, suspension, steering, transmission awareness and basic servicing. The department does not aim to make trainees fully qualified mechanics within seven months. Rather, it gives them strong foundational knowledge, workshop discipline, safety habits, tool handling skills, inspection awareness, basic servicing practice and readiness for industrial attachment in mechanic workshops, fleet maintenance units, transport companies, garages and vehicle service centres. Motor Vehicle Mechanics requires patience, careful observation, honesty, cleanliness, accuracy, tool care, problem-solving and safety. A careless mechanic can damage vehicles, waste parts, cause accidents and destroy customer trust. Therefore, this department must train trainees to work with discipline, integrity and excellence.",
+      "purpose": "The purpose of the Motor Vehicle Mechanics Department is to raise disciplined, safety-conscious and God-fearing trainees who can assist in vehicle maintenance and repair under supervision and grow towards employment, apprenticeship or enterprise. The department aims to:",
+      "aims": [
+        "Teach trainees the dignity and value of vehicle maintenance work.",
+        "Introduce trainees to major vehicle systems and their functions.",
+        "Train trainees in workshop safety, tool handling and cleanliness.",
+        "Teach basic vehicle inspection and fault observation.",
+        "Train trainees in basic servicing awareness, including oil, coolant, battery and tyre checks.",
+        "Build discipline, patience, accuracy, honesty and customer care.",
+        "Prepare trainees for industrial attachment in mechanic workshops and vehicle service environments.",
+        "Help trainees identify honest enterprise opportunities in motor vehicle maintenance."
+      ],
+      "skills": [
+        "Understanding the meaning of motor vehicle mechanics.",
+        "Knowing the importance of vehicle maintenance.",
+        "Identifying workshop areas and their uses.",
+        "Understanding workshop discipline.",
+        "Understanding customer vehicle care.",
+        "Knowing common mechanic roles.",
+        "Understanding supervision and apprenticeship.",
+        "Understanding workshop cleanliness."
+      ]
+    },
+    {
+      "title": "Nation Building",
+      "departmentId": "dept_leadership",
+      "file": "/programes/Nation Building.docx",
+      "overview": "The Nation Building Department trains young people to understand their responsibility to God, their community and their nation. It teaches trainees that nations are not built by government alone. Nations are built by righteous citizens, responsible families, honest leaders, disciplined workers, faithful communities, productive institutions and people who choose to serve rather than destroy. Nation building is the process of developing a nation spiritually, morally, socially, economically, politically and culturally. It includes building unity, peace, justice, good leadership, strong institutions, public service, productivity, civic responsibility, ethical conduct, community development and national vision. A nation becomes weak when citizens are selfish, corrupt, divided, lazy, violent, tribalistic, careless, dishonest and irresponsible. A nation becomes strong when citizens are righteous, diligent, truthful, peaceful, patriotic, productive, disciplined, just and willing to serve the common good. This department does not aim to turn trainees into political experts within seven months. Rather, it gives them a strong foundation in civic responsibility, national values, leadership ethics, peacebuilding, community service, public accountability, unity, problem-solving, social responsibility and practical contribution to national development. Nation building begins with personal transformation. A trainee who cannot keep time, respect authority, speak truth, reject corruption, work diligently and serve others cannot truly build a nation. Therefore, the Nation Building Department trains trainees to become citizens who love God, honour people, serve communities, respect lawful authority, reject corruption and contribute positively wherever they are placed.",
+      "purpose": "The purpose of the Nation Building Department is to raise God-fearing, responsible and disciplined trainees who understand their role in building a righteous, peaceful, productive and united nation. The department aims to:",
+      "aims": [
+        "Teach trainees the meaning and importance of nation building.",
+        "Build love for God, community and country.",
+        "Teach civic responsibility, patriotism and lawful conduct.",
+        "Develop understanding of righteousness, justice, mercy and public responsibility.",
+        "Train trainees in peacebuilding, unity, conflict prevention and community harmony.",
+        "Teach trainees to reject corruption, tribal hatred, religious intolerance, violence and destructive speech.",
+        "Build leadership character, service mentality and community development awareness.",
+        "Train trainees to identify local problems and design practical solutions."
+      ],
+      "skills": [
+        "Understanding the meaning of nation building.",
+        "Understanding why nations rise and fall.",
+        "Understanding the role of citizens in national development.",
+        "Understanding the connection between character and national progress.",
+        "Understanding righteousness as a foundation for national greatness.",
+        "Understanding community service.",
+        "Understanding civic responsibility.",
+        "Understanding peace and unity."
+      ]
+    },
+    {
+      "title": "Office Administration",
+      "departmentId": "dept_admin",
+      "file": "/programes/Office Administration.docx",
+      "overview": "The Office Administration Department trains young people to understand the basic principles, skills, discipline, tools and character required to support the smooth running of offices, ministries, schools, businesses, organisations and public institutions. Office administration involves organising information, handling documents, receiving visitors, managing communication, keeping records, arranging meetings, preparing reports, supporting supervisors, controlling files, managing schedules, protecting confidential information and ensuring that office work is done decently and in order. Every organisation needs good administration. A business may have good ideas, but without administration, records become lost, meetings become confused, visitors are not attended to, documents are misplaced, instructions are forgotten and productivity is weakened. Good administration creates order, clarity, accountability and professional service. This department does not aim to make trainees senior administrators within seven months. Rather, it gives trainees a strong foundation in office conduct, document preparation, filing, correspondence, reception, minute writing, scheduling, inventory awareness, digital office support, confidentiality, record keeping and workplace discipline. An office administrator must be organised, respectful, accurate, confidential, punctual, neat, teachable and trustworthy. A careless office worker can expose private information, lose important files, embarrass an organisation, delay decisions or create confusion. Therefore, this department must train trainees to serve with excellence, humility and integrity.",
+      "purpose": "The purpose of the Office Administration Department is to raise disciplined, organised and God-fearing trainees who can support office operations with accuracy, confidentiality, order and excellent service. The department aims to:",
+      "aims": [
+        "Teach trainees the meaning and importance of office administration.",
+        "Train trainees in professional office behaviour and workplace discipline.",
+        "Teach document preparation, filing, record keeping and correspondence.",
+        "Train trainees in reception duties, visitor handling and telephone etiquette.",
+        "Teach meeting preparation, agenda writing and minute taking.",
+        "Train trainees in scheduling, office inventory, simple reports and task follow-up.",
+        "Build confidentiality, accuracy, punctuality, respect and responsibility.",
+        "Prepare trainees for industrial attachment in offices, ministries, schools, businesses, NGOs, churches, hospitals, farms, hotels and public institutions."
+      ],
+      "skills": [
+        "Understanding the meaning of office administration.",
+        "Understanding the role of an office administrator.",
+        "Understanding the importance of order.",
+        "Understanding the value of records.",
+        "Understanding office departments and functions.",
+        "Understanding professional conduct.",
+        "Understanding confidentiality.",
+        "Understanding office hierarchy."
+      ]
+    },
+    {
+      "title": "Poultry and Livestock",
+      "departmentId": "dept_agriculture",
+      "file": "/programes/Poultry and Livestock.docx",
+      "overview": "The Poultry and Livestock Department trains young people to understand the basic principles, safety rules, daily care practices, feeding systems, hygiene, disease prevention awareness, housing, record keeping and business opportunities in poultry and livestock production. Poultry includes birds such as chickens, turkeys, ducks and guinea fowls. Livestock includes animals such as goats, sheep, pigs, cattle and rabbits. These animals provide meat, eggs, milk, manure, income, employment and food security for families and communities. This department does not aim to turn trainees into veterinary doctors or advanced animal scientists within seven months. It gives trainees a strong foundation so they can care for animals responsibly, work under supervision, observe animal health, maintain clean housing, keep records, reduce losses, support farm operations and prepare for industrial attachment. Poultry and livestock work requires patience, compassion, observation, hygiene, discipline, diligence and honesty. Animals cannot speak like humans, so trainees must learn to observe their behaviour, feeding, drinking, movement, droppings and general condition. A careless trainee can cause disease spread, animal suffering, poor growth, death, financial loss and food safety problems. Therefore, the department must train trainees to care for animals with responsibility, kindness and wisdom.",
+      "purpose": "The purpose of the Poultry and Livestock Department is to raise disciplined, skilled and God-fearing trainees who can care for poultry and livestock responsibly, support animal production enterprises and contribute to food security and community development. The department aims to:",
+      "aims": [
+        "Teach trainees the value of poultry and livestock production.",
+        "Introduce trainees to common poultry and livestock species.",
+        "Train trainees in animal housing, feeding, watering and hygiene.",
+        "Teach animal observation, disease prevention awareness and early reporting.",
+        "Train trainees in poultry brooding, egg production awareness, meat production awareness and basic livestock management.",
+        "Build discipline, compassion, patience, cleanliness and responsibility.",
+        "Prepare trainees for industrial attachment in poultry farms, livestock farms, veterinary support centres, feed stores, hatcheries, abattoirs, animal feed businesses and agribusiness organisations.",
+        "Help trainees identify honest enterprise opportunities in poultry and livestock."
+      ],
+      "skills": [
+        "Understanding the meaning of poultry.",
+        "Understanding the meaning of livestock.",
+        "Identifying common poultry species.",
+        "Identifying common livestock species.",
+        "Understanding the importance of animal production.",
+        "Understanding farm rules.",
+        "Understanding animal welfare.",
+        "Understanding farm hygiene."
+      ]
+    },
+    {
+      "title": "Project Management",
+      "departmentId": "dept_admin",
+      "file": "/programes/Project Management.docx",
+      "overview": "The Project Management Department trains young people to understand the basic principles, discipline, tools, records, leadership and practical skills required to plan, organise, implement, monitor and complete projects successfully. A project is a temporary assignment with a clear beginning, a clear goal, specific activities, required resources, people involved and an expected result. Projects may include building works, road works, farming projects, community service projects, ministry programmes, business start-ups, school events, training activities, health outreaches, youth empowerment programmes and public development initiatives. Project management helps people turn ideas into organised action. Without project management, good ideas can fail because of poor planning, weak budgeting, unclear responsibilities, poor communication, lack of monitoring, waste, delays and conflict. This department does not aim to make trainees senior professional project managers within seven months. Rather, it gives them strong foundational knowledge and practical skills in project planning, goal setting, scheduling, budgeting, teamwork, supervision, risk awareness, procurement awareness, monitoring, reporting, evaluation and project closure. A good project manager must be organised, honest, disciplined, teachable, calm, accountable and able to work with people. Project management requires wisdom, planning, communication, patience, follow-up and responsibility. Trainees must learn that projects do not succeed by desire alone. They succeed through vision, planning, teamwork, diligence and faithful execution.",
+      "purpose": "The purpose of the Project Management Department is to raise disciplined, organised and God-fearing trainees who can support projects, lead small assignments and contribute to community development, business growth and organisational effectiveness. The department aims to:",
+      "aims": [
+        "Teach trainees the meaning and importance of project management.",
+        "Train trainees to turn ideas into clear project goals.",
+        "Teach project planning, scheduling, budgeting and resource management.",
+        "Train trainees in teamwork, communication and responsibility allocation.",
+        "Teach risk identification, problem-solving and safety awareness.",
+        "Train trainees in monitoring, reporting, documentation and evaluation.",
+        "Build diligence, accountability, integrity, orderliness and leadership maturity.",
+        "Prepare trainees for industrial attachment in construction companies, NGOs, ministries, schools, farms, businesses, offices, community organisations and development agencies."
+      ],
+      "skills": [
+        "Understanding the meaning of a project.",
+        "Understanding the meaning of project management.",
+        "Identifying different types of projects.",
+        "Understanding the project life cycle.",
+        "Understanding project goals.",
+        "Understanding project stakeholders.",
+        "Understanding project resources.",
+        "Understanding project constraints."
+      ]
+    },
+    {
+      "title": "Public Administration",
+      "departmentId": "dept_leadership",
+      "file": "/programes/Public Administration.docx",
+      "overview": "The Public Administration Department trains young people to understand the basic principles, discipline, ethics, systems and practical skills required for serving in government, public institutions, community organisations, ministries, agencies, local councils, public offices and development programmes. Public administration is the organised way through which policies, laws, services, programmes and public resources are managed for the benefit of society. It involves planning, records, public service delivery, communication, budgeting awareness, accountability, community engagement, policy implementation, supervision, public ethics and responsible leadership. A nation cannot grow properly without good public administration. Roads, schools, hospitals, water projects, markets, public records, local government services, community development, public safety and social welfare all require administration. When public administration is weak, people suffer from delay, corruption, poor records, abandoned projects, injustice, waste and lack of trust. This department does not aim to turn trainees into senior civil servants within seven months. Rather, it gives them strong foundational knowledge in public service, governance, policy awareness, office procedure, citizen service, public records, public accountability, community engagement, teamwork, ethics and administrative responsibility. A public administrator must be honest, disciplined, fair, respectful, patient, accountable, organised and service-minded. Public administration is not an opportunity for selfish gain. It is a platform for serving people, strengthening communities and honouring God through justice, order and faithfulness.",
+      "purpose": "The purpose of the Public Administration Department is to raise disciplined, ethical and God-fearing trainees who can understand public service, support administrative systems and contribute to community and national development with integrity. The department aims to:",
+      "aims": [
+        "Teach trainees the meaning and importance of public administration.",
+        "Help trainees understand government, governance and public service.",
+        "Train trainees in public office conduct, records, communication and citizen service.",
+        "Teach policy implementation awareness and programme support.",
+        "Train trainees in community engagement, public accountability and service delivery.",
+        "Build understanding of public finance, budgeting, procurement awareness and resource stewardship.",
+        "Develop honesty, fairness, patience, diligence, confidentiality and respect for authority.",
+        "Prepare trainees for industrial attachment in local government offices, ministries, agencies, NGOs, community development offices, public institutions, schools, hospitals and administrative departments."
+      ],
+      "skills": [
+        "Understanding the meaning of public administration.",
+        "Understanding the purpose of government.",
+        "Understanding the meaning of governance.",
+        "Understanding the role of public institutions.",
+        "Understanding public service.",
+        "Understanding citizens and community needs.",
+        "Understanding public policy awareness.",
+        "Understanding public records."
+      ]
+    },
+    {
+      "title": "Road Construction",
+      "departmentId": "dept_construction",
+      "file": "/programes/Road Construction.docx",
+      "overview": "The Road Construction Department trains young people to understand the basic principles, practices and discipline of road construction and road maintenance. The department introduces trainees to road types, site safety, measurement, setting-out awareness, earthworks, drainage, compaction, road materials, pavement layers, concrete and asphalt awareness, road repairs, traffic control, quality checks, record keeping and road construction enterprise. Roads are important for community development. Good roads help people travel, move farm produce, access hospitals, attend school, conduct business and connect villages, towns and cities. Poor roads can increase accidents, delay trade, damage vehicles and make life difficult for communities. This department does not aim to make trainees fully qualified road engineers within seven months. Rather, it gives them a strong foundation so they can work safely under supervision, understand road construction sites, assist skilled workers, continue learning and prepare for industrial attachment in road construction companies, public works departments, construction firms and maintenance units. Road construction requires discipline, accuracy, teamwork, safety, patience, strength and honesty. A careless road worker can waste materials, create unsafe roads and endanger lives. A faithful trainee must therefore learn to build roads with wisdom, care and integrity.",
+      "purpose": "The purpose of the Road Construction Department is to raise disciplined, skilled and God-fearing trainees who can participate responsibly in road construction and maintenance work under supervision. The department aims to:",
+      "aims": [
+        "Teach trainees the value of roads in community and national development.",
+        "Introduce trainees to basic road construction materials, tools and equipment.",
+        "Train trainees in road site safety, measurement and setting-out awareness.",
+        "Teach basic road layers, drainage, earthworks and compaction principles.",
+        "Build discipline, accuracy, teamwork and respect for site rules.",
+        "Prepare trainees for industrial attachment in road construction and public works environments.",
+        "Help trainees understand road maintenance and small enterprise opportunities.",
+        "Develop trainees who can serve communities through safe, honest and quality road work."
+      ],
+      "skills": [
+        "Understanding the importance of roads.",
+        "Identifying types of roads.",
+        "Understanding road construction stages.",
+        "Recognising road construction workers and their roles.",
+        "Understanding site discipline.",
+        "Understanding road safety and traffic awareness.",
+        "Identifying common road defects.",
+        "Understanding road maintenance."
+      ]
+    },
+    {
+      "title": "Survey and Site Management",
+      "departmentId": "dept_construction",
+      "file": "/programes/Survey and Site Management.docx",
+      "overview": "The Survey and Site Management Department trains young people to understand the basic principles of measurement, site layout, land observation, setting-out, levelling awareness, site organisation, site records, labour coordination, material control, safety and quality supervision. Surveying helps construction work to begin in the right position, at the right level, with the right measurements. Site management helps construction work to continue in an orderly, safe, disciplined and productive manner. A poorly measured site can lead to wrong building positions, poor drainage, road errors, boundary conflicts, wasted materials and unsafe structures. A poorly managed site can lead to accidents, theft, delays, confusion, poor quality and waste. This department does not aim to turn trainees into fully qualified surveyors, engineers or site managers within seven months. Rather, it gives them a strong foundation so they can assist professionals, understand site operations, keep simple records, support site discipline and prepare for industrial attachment. Survey and Site Management requires accuracy, honesty, order, patience, clear communication and respect for authority. A trainee in this department must learn to measure carefully, record truthfully, organise responsibly and serve the whole project with discipline.",
+      "purpose": "The purpose of the Survey and Site Management Department is to raise disciplined, accurate, safety-conscious and God-fearing trainees who can support construction, road, building and infrastructure projects under supervision. The department aims to:",
+      "aims": [
+        "Teach trainees the importance of accurate measurement.",
+        "Introduce trainees to basic surveying tools and site management practices.",
+        "Train trainees in simple measurement, marking, setting-out and levelling awareness.",
+        "Teach site organisation, tool control, material records and daily reporting.",
+        "Build honesty, accuracy, punctuality, teamwork and responsibility.",
+        "Prepare trainees for industrial attachment on building sites, road sites, survey teams, project offices and public works departments.",
+        "Help trainees understand enterprise opportunities in site support services.",
+        "Develop trainees who can serve construction projects through order, safety and accountability."
+      ],
+      "skills": [
+        "Understanding the meaning of surveying.",
+        "Understanding why measurement matters in construction.",
+        "Identifying different site features.",
+        "Understanding boundaries at awareness level.",
+        "Understanding site plans and simple drawings.",
+        "Identifying survey marks and reference points.",
+        "Understanding setting-out awareness.",
+        "Understanding basic levelling awareness."
+      ]
+    },
+    {
+      "title": "Welding and Fabrication",
+      "departmentId": "dept_welding",
+      "file": "/programes/Welding and Fabrication.docx",
+      "overview": "The Welding and Fabrication Department trains young people to understand the basic principles, tools, safety rules, discipline and practical skills required in joining, cutting, shaping and assembling metal materials. Welding and fabrication are important in construction, agriculture, transport, building maintenance, road work, equipment repair, gates, doors, windows, railings, tanks, frames, metal furniture, machine support and community infrastructure. This department does not aim to make trainees fully qualified professional welders within seven months. Welding is a high-risk skill that involves electricity, heat, fire, sparks, fumes, sharp metal, heavy materials and powerful machines. Therefore, every trainee must work under strict supervision and must not weld, grind, cut or handle gas equipment without trainer approval. The purpose of this department is to give trainees a strong foundation in workshop safety, tool identification, metal measurement, cutting awareness, welding awareness, joint preparation, fabrication planning, finishing, repair awareness, record keeping and enterprise development. A welding trainee must be disciplined, patient, careful, accurate and safety-conscious. A careless welder can cause burns, eye injuries, electric shock, fire, weak joints, damaged property and serious accidents. Therefore, trainees must learn to work with wisdom, humility, safety and excellence.",
+      "purpose": "The purpose of the Welding and Fabrication Department is to raise disciplined, skilled and God-fearing trainees who can assist in welding and fabrication work under supervision and grow towards employment, apprenticeship or enterprise. The department aims to:",
+      "aims": [
+        "Teach trainees the dignity and value of welding and fabrication.",
+        "Introduce trainees to welding tools, machines, materials and workshop procedures.",
+        "Train trainees in welding workshop safety and fire prevention.",
+        "Teach basic measurement, marking, cutting, fitting and joint preparation.",
+        "Introduce trainees to arc welding, gas welding awareness, MIG/TIG awareness and grinding safety.",
+        "Train trainees in simple fabrication planning and supervised practice.",
+        "Build accuracy, patience, discipline, teamwork, honesty and tool care.",
+        "Prepare trainees for industrial attachment in welding workshops, fabrication yards, construction sites, equipment workshops and metal works companies."
+      ],
+      "skills": [
+        "Understanding the meaning of welding.",
+        "Understanding the meaning of fabrication.",
+        "Knowing the importance of metal work in society.",
+        "Identifying workshop areas and their uses.",
+        "Understanding workshop discipline.",
+        "Understanding fire safety.",
+        "Understanding tool care.",
+        "Understanding customer property care."
+      ]
+    }
+  ]
+}

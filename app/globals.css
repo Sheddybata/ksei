@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background: #f7f3e8;
+  color: #252525;
+}
+
+::selection {
+  background: #c9a227;
+  color: #123b5d;
+}
+
+:focus-visible {
+  outline: 2px solid #168c87;
+  outline-offset: 2px;
+}
+
+.id-card {
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.nav-scroll {
+  scrollbar-width: none;
+}
+
+.nav-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.id-frame {
+  container-type: inline-size;
+  width: min(307px, 100%);
+  height: calc(min(307px, 100%) * 486 / 307);
+}
+
+.id-frame > .id-card {
+  transform-origin: top left;
+  transform: scale(calc(min(307px, 100cqw) / 307px));
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: white !important;
+  }
+
+  .print-area {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .id-frame {
+    width: 307px;
+    height: 486px;
+  }
+
+  .id-frame > .id-card {
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

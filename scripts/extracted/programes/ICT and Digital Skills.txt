@@ -1,0 +1,2061 @@
+﻿Dr Isa El-Buba Foundation (DISEF)
+Departmental Training Module
+ICT and Digital Skills
+1. Module Title
+ICT and Digital Skills
+2. Departmental Vision
+To raise disciplined, digitally competent, creative, ethical and God-fearing trainees who can use technology responsibly for learning, work, business, communication, service, productivity and community transformation.
+3. Departmental Mission
+The ICT and Digital Skills Department exists to train young people in practical computer use, digital literacy, office productivity, internet research, online communication, cybersecurity awareness, digital content creation, basic data handling, artificial intelligence awareness, digital entrepreneurship and workplace readiness.
+The department will prepare trainees to become office assistants, digital clerks, ICT support assistants, content creators, data entry assistants, online business operators, digital entrepreneurs, administrative workers, social media assistants and responsible users of technology.
+4. Programme Philosophy
+Technology is a tool. It can be used to build or destroy, to serve or deceive, to learn or waste time, to create opportunities or spread confusion. EBOMI Kingdom Leadership Academy must therefore train trainees not only to use technology, but to use it wisely, responsibly and ethically.
+ICT and digital skills are now important in education, business, government, ministry, agriculture, construction, health, administration, communication and entrepreneurship. A trainee who cannot use basic digital tools may struggle in the modern workplace. A trainee who uses digital tools without character may become a danger to society.
+Therefore, this department trains both competence and conscience. Trainees must learn computer skills, but they must also learn truthfulness, online discipline, digital safety, respect, privacy, productivity and Kingdom responsibility.
+5. Key Scripture
+Daniel 1:17“As for these four young men, God gave them knowledge and skill in all literature and wisdom; and Daniel had understanding in all visions and dreams.”
+6. Memory Verse
+Proverbs 22:29“Do you see a man who excels in his work? He will stand before kings; he will not stand before unknown men.”
+7. Departmental Motto
+“Use technology with wisdom, create with excellence, communicate with integrity and serve with purpose.”
+8. Target Trainees
+This module is designed for:
+1. Unemployed graduates.
+2. Secondary school leavers.
+3. Orphans and vulnerable young people.
+4. Youths with little or no computer experience.
+5. Trainees preparing for office, business or administrative work.
+6. Trainees interested in digital entrepreneurship.
+7. Trainees interested in content creation and online communication.
+8. Trainees interested in data entry, digital records and ICT support.
+9. Trainees in other departments who need digital skills for their trade.
+10. Trainees preparing for industrial attachment in offices, businesses, schools, ministries, farms, construction companies or ICT centres.
+9. Duration
+This departmental module runs within the one-year Academy structure.
+Phase One: Classroom and Practical Training
+Seven months
+This phase covers computer fundamentals, typing, file management, office productivity, internet use, email, digital communication, presentations, spreadsheets, data handling, content creation, cybersecurity, responsible AI use and digital enterprise.
+Phase Two: Industrial Attachment
+Five months
+This phase places trainees in offices, ICT centres, schools, business centres, administrative departments, digital media units, farms, companies, ministries, NGOs or enterprises where they can practise digital skills in real workplace settings.
+10. Important Professional Note
+This module provides foundational and practical ICT and digital skills training. It does not replace advanced professional training in computer science, software engineering, cybersecurity, data science, networking, digital forensics, artificial intelligence engineering or information systems management.
+Trainees must be taught to recognise their level. They should not claim advanced technical competence beyond what they have learnt. They must also respect data privacy, organisational rules, copyright, confidentiality and lawful technology use.
+PART ONE
+DIGITAL COMPETENCE FOUNDATION
+This department should be guided by recognised digital competence principles.
+The European DigComp framework describes digital competence as the confident, critical and responsible use of digital technologies for learning, work and participation in society. It highlights areas such as information and data literacy, communication and collaboration, digital content creation, safety and problem-solving.
+UNESCO’s ICT Competency Framework for Teachers identifies ICT competencies needed for education, curriculum support, assessment, pedagogy, organisation, administration and professional development.
+Nigeria’s National Digital Literacy Framework provides guidelines for developing digital literacy in Nigeria, and NITDA’s digital literacy work is part of national efforts to increase participation in the digital economy.
+UNESCO’s AI Competency Framework for Students encourages education systems to prepare learners to engage with artificial intelligence safely, meaningfully and responsibly.
+This EBOMI module therefore focuses on practical digital ability, workplace usefulness, ethical conduct, cybersecurity awareness and Kingdom character.
+PART TWO
+DEPARTMENTAL LEARNING OUTCOMES
+By the end of this module, trainees should be able to:
+A. Knowledge Outcomes
+Trainees should be able to:
+1. Explain the meaning of ICT.
+2. Explain the meaning of digital skills.
+3. Identify basic computer parts and their functions.
+4. Understand basic computer operations.
+5. Explain the difference between hardware and software.
+6. Understand file and folder management.
+7. Explain the use of word processing tools.
+8. Explain the use of spreadsheet tools.
+9. Explain the use of presentation tools.
+10. Understand internet browsing and online research.
+11. Explain email and professional digital communication.
+12. Understand online safety and cybersecurity basics.
+13. Explain digital privacy and data protection.
+14. Understand social media use for work and business.
+15. Explain digital content creation.
+16. Understand basic image, poster and document design.
+17. Understand basic data entry and digital records.
+18. Explain responsible use of artificial intelligence tools.
+19. Understand digital entrepreneurship.
+20. Prepare for ICT-related workplace attachment.
+B. Practical Skill Outcomes
+Trainees should be able to:
+1. Switch on and shut down a computer correctly.
+2. Use a keyboard and mouse properly.
+3. Type basic documents.
+4. Create, save, rename, move and delete files.
+5. Organise folders.
+6. Use a word processor to create letters, reports and simple forms.
+7. Format text, paragraphs, headings and tables.
+8. Use spreadsheets for basic calculations and records.
+9. Create simple charts.
+10. Prepare simple presentations.
+11. Use email professionally.
+12. Attach files to emails.
+13. Search the internet responsibly.
+14. Download and organise files safely.
+15. Use cloud storage where available.
+16. Design simple posters or flyers.
+17. Create simple digital content for business or ministry.
+18. Use basic online meeting tools.
+19. Practise password safety and multi-factor authentication.
+20. Recognise phishing and online scams.
+21. Use AI tools responsibly for learning and productivity.
+22. Prepare a digital CV or portfolio.
+23. Maintain simple digital records.
+24. Present a digital project.
+C. Character Outcomes
+Trainees should demonstrate:
+1. Digital honesty.
+2. Discipline.
+3. Punctuality.
+4. Focus.
+5. Respect for others.
+6. Patience.
+7. Accuracy.
+8. Confidentiality.
+9. Truthfulness.
+10. Responsibility.
+11. Creativity.
+12. Teamwork.
+13. Online integrity.
+14. Care for equipment.
+15. Respect for intellectual property.
+16. Productive use of time.
+17. Humility to learn.
+18. Service-mindedness.
+PART THREE
+CORE TRAINING AREAS
+The ICT and Digital Skills Department is organised into eighteen core training areas:
+1. Introduction to ICT and Digital Literacy.
+2. Computer Hardware and Software Basics.
+3. Keyboard, Mouse and Typing Skills.
+4. File, Folder and Digital Storage Management.
+5. Word Processing and Document Creation.
+6. Spreadsheets, Calculations and Basic Data Records.
+7. Presentation Skills and Slide Preparation.
+8. Internet Browsing and Online Research.
+9. Email and Professional Digital Communication.
+10. Cybersecurity, Password Safety and Online Protection.
+11. Digital Ethics, Privacy and Responsible Technology Use.
+12. Social Media for Communication, Ministry and Business.
+13. Digital Content Creation and Basic Design.
+14. Online Meetings, Collaboration and Cloud Tools.
+15. Basic Data Entry, Records and Digital Administration.
+16. Artificial Intelligence Awareness and Responsible Use.
+17. Digital Entrepreneurship and Online Business.
+18. Industrial Attachment Preparation and Workplace Practice.
+PART FOUR
+DEPARTMENTAL TRAINING METHODS
+Training should combine:
+1. Classroom teaching.
+2. Computer laboratory practicals.
+3. Typing drills.
+4. Demonstrations.
+5. Guided practice.
+6. Individual assignments.
+7. Group projects.
+8. Digital safety simulations.
+9. Internet research tasks.
+10. Document creation exercises.
+11. Spreadsheet exercises.
+12. Presentation practice.
+13. Email writing practice.
+14. Social media content exercises.
+15. Business planning exercises.
+16. Peer review.
+17. Weekly assessments.
+18. Portfolio development.
+19. Industrial attachment logbooks.
+20. Final practical project presentation.
+PART FIVE
+TRAINER REQUIREMENTS
+The department should be led or supported by trainers with experience in one or more of the following areas:
+1. Computer operations.
+2. Office productivity.
+3. Digital literacy training.
+4. ICT support.
+5. Data entry and records management.
+6. Digital administration.
+7. Graphic design basics.
+8. Social media management.
+9. Cybersecurity awareness.
+10. Digital entrepreneurship.
+11. AI literacy and responsible AI use.
+12. Teaching or training.
+13. Where possible, guest facilitators from ICT centres, banks, schools, businesses, ministries, NGOs and digital agencies should be invited for practical exposure.
+PART SIX
+BASIC TOOLS, EQUIPMENT AND MATERIALS
+1. Computer Laboratory Equipment
+The department should provide or demonstrate:
+1. Desktop computers or laptops.
+2. Monitors.
+3. Keyboards.
+4. Mice.
+5. Extension cables.
+6. Power stabilisers or UPS where available.
+7. Printer.
+8. Scanner where available.
+9. Projector.
+10. Speakers.
+11. Internet router or modem.
+12. External storage devices.
+13. Flash drives for demonstration.
+14. Whiteboard.
+15. Screen or display area.
+16. Charging points.
+17. Surge protectors.
+18. Basic repair tools where appropriate.
+19. Fire extinguisher.
+20. First aid box.
+2. Software and Digital Tools
+Where available, trainees should be exposed to:
+1. Operating system basics.
+2. Word processing software.
+3. Spreadsheet software.
+4. Presentation software.
+5. PDF readers.
+6. Web browsers.
+7. Email platforms.
+8. Cloud storage platforms.
+9. Online meeting tools.
+10. Basic design tools.
+11. Antivirus or security tools.
+12. Typing practice tools.
+13. File compression tools.
+14. Note-taking tools.
+15. AI assistant tools under supervision.
+16. Accounting or record templates where relevant.
+17. Learning management tools where available.
+3. Training Materials
+Training materials should include:
+1. ICT training manual.
+2. Computer laboratory rules.
+3. Departmental attendance register.
+4. Practical logbook.
+5. Typing progress sheet.
+6. File management checklist.
+7. Word processing assignment sheet.
+8. Spreadsheet assignment sheet.
+9. Presentation assessment sheet.
+10. Internet research worksheet.
+11. Email practice guide.
+12. Cybersecurity checklist.
+13. Digital ethics guide.
+14. AI responsible use guide.
+15. Digital business plan template.
+16. Portfolio checklist.
+17. Industrial attachment logbook.
+18. Final project assessment sheet.
+PART SEVEN
+DEPARTMENTAL CURRICULUM UNITS
+UNIT 1
+Introduction to ICT and Digital Literacy
+Purpose
+To introduce trainees to the meaning, importance and responsible use of ICT and digital skills.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Define ICT.
+2. Define digital literacy.
+3. Explain why digital skills are important today.
+4. Identify areas where ICT is used.
+5. Understand technology as a tool for service and productivity.
+6. Recognise the need for digital character.
+Teaching Content
+ICT means Information and Communication Technology. It refers to technologies used to create, store, process, share and communicate information.
+Digital literacy means the ability to use digital devices, tools and platforms confidently, safely and responsibly for learning, work, communication and problem-solving.
+ICT is used in:
+1. Education.
+2. Health.
+3. Agriculture.
+4. Construction.
+5. Banking.
+6. Business.
+7. Government.
+8. Ministry.
+9. Communication.
+10. Research.
+11. Transport.
+12. Entertainment.
+13. Record keeping.
+14. Entrepreneurship.
+15. Trainees must understand that digital skills are not only for ICT specialists. Every department needs digital ability.
+Practical Demonstration
+Show trainees:
+1. Computer system.
+2. Smartphone.
+3. Printer.
+4. Internet browser.
+5. Email.
+6. Document editor.
+7. Spreadsheet.
+8. Online form.
+9. Simple digital poster.
+10. Digital record sheet.
+Group Activity
+Ask trainees to discuss:
+How can digital skills help each department in EBOMI Kingdom Leadership Academy?
+Examples:
+1. Catering can use digital tools for menus, costing and adverts.
+2. Fish farming can use spreadsheets for feeding records.
+3. Construction can use digital documents for reports.
+4. Agriculture can use internet research for improved farming.
+5. Office administration can use email, typing and records.
+Assessment
+Trainees should explain ICT and list ten ways ICT is used in daily life.
+Character Focus
+Purposeful Use
+Trainees should use technology for learning, work, service and productivity.
+UNIT 2
+Computer Hardware and Software Basics
+Purpose
+To help trainees identify computer parts and understand basic computer operation.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Identify computer hardware.
+2. Explain software.
+3. Distinguish input, output and storage devices.
+4. Switch on and shut down a computer correctly.
+5. Understand basic care of computer equipment.
+6. Avoid careless handling.
+Teaching Content
+Hardware refers to the physical parts of a computer.
+Examples:
+1. Monitor.
+2. Keyboard.
+3. Mouse.
+4. System unit.
+5. Laptop screen.
+6. Printer.
+7. Scanner.
+8. Speakers.
+9. Webcam.
+10. Flash drive.
+11. Hard drive.
+12. Router.
+13. Software refers to programmes or applications that make the computer work.
+Examples:
+1. Operating system.
+2. Word processor.
+3. Spreadsheet application.
+4. Presentation application.
+5. Web browser.
+6. Antivirus.
+7. Design tool.
+8. Media player.
+Input Devices
+Devices used to send information into the computer:
+1. Keyboard.
+2. Mouse.
+3. Scanner.
+4. Microphone.
+5. Webcam.
+Output Devices
+Devices used to receive information from the computer:
+1. Monitor.
+2. Printer.
+3. Speaker.
+4. Projector.
+Storage Devices
+Devices used to save information:
+1. Hard drive.
+2. Flash drive.
+3. Memory card.
+4. External drive.
+5. Cloud storage.
+Practical Demonstration
+The trainer should demonstrate:
+1. Identifying computer parts.
+2. Connecting keyboard and mouse.
+3. Switching on the computer.
+4. Opening an application.
+5. Closing an application.
+6. Shutting down safely.
+7. Cleaning equipment properly.
+8. Avoiding food and water near computers.
+Group Activity
+Groups should label computer parts and explain their uses.
+Assessment
+Trainees should identify fifteen computer parts and explain hardware and software.
+Character Focus
+Stewardship
+Trainees should care for ICT equipment because it is valuable and shared.
+UNIT 3
+Keyboard, Mouse and Typing Skills
+Purpose
+To train trainees in basic computer control and typing accuracy.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Use a mouse correctly.
+2. Use a keyboard correctly.
+3. Identify important keyboard keys.
+4. Type simple sentences.
+5. Improve typing speed and accuracy.
+6. Practise patience and focus.
+Teaching Content
+Basic mouse skills include:
+1. Pointing.
+2. Clicking.
+3. Double-clicking.
+4. Right-clicking.
+5. Dragging.
+6. Scrolling.
+7. Important keyboard keys include:
+8. Letters.
+9. Numbers.
+10. Space bar.
+11. Enter.
+12. Backspace.
+13. Delete.
+14. Shift.
+15. Caps Lock.
+16. Tab.
+17. Control.
+18. Alt.
+19. Arrow keys.
+20. Function keys.
+21. Typing should be done with patience. Trainees should learn posture, finger placement and accuracy before speed.
+Practical Demonstration
+The trainer should demonstrate:
+1. Sitting position.
+2. Keyboard hand position.
+3. Opening a blank document.
+4. Typing name and address.
+5. Using capital letters.
+6. Correcting mistakes.
+7. Saving typed work.
+Group Activity
+Typing drill:
+1. Type a Bible verse.
+2. Type a short business letter.
+3. Type a trainee profile.
+4. Type a daily report.
+Assessment
+Assess:
+1. Typing accuracy.
+2. Use of punctuation.
+3. Correct spacing.
+4. Saving work.
+5. Improvement over time.
+Character Focus
+Patience
+Typing improves through consistent practice, not frustration.
+UNIT 4
+File, Folder and Digital Storage Management
+Purpose
+To teach trainees how to organise digital files properly.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Create folders.
+2. Name files properly.
+3. Save documents.
+4. Rename files.
+5. Move and copy files.
+6. Delete files carefully.
+7. Use storage devices responsibly.
+8. Understand basic backup.
+Teaching Content
+Digital organisation is important in offices, schools, businesses and ministries. A person who cannot find files quickly will waste time and may lose important documents.
+Good file management includes:
+1. Clear folder names.
+2. Proper file names.
+3. Date or version where necessary.
+4. Avoiding duplicate confusion.
+5. Backing up important files.
+6. Avoiding careless deletion.
+7. Keeping personal files separate from office files.
+8. Scanning storage devices for viruses where tools exist.
+9. Examples of good file names:
+10. EBOMI_Attendance_Month_1
+11. Fish_Farming_Feeding_Record
+12. Catering_Costing_Sheet
+13. Trainee_CV_Kimto
+14. Survey_Site_Report_Week_4
+15. Examples of poor file names:
+16. New Document
+17. Final Final
+18. My Work
+19. Untitled
+20. Document 1
+Practical Demonstration
+The trainer should demonstrate:
+1. Creating a folder.
+2. Creating subfolders.
+3. Saving a document.
+4. Renaming a file.
+5. Copying a file.
+6. Moving a file.
+7. Deleting and restoring where possible.
+8. Using a flash drive safely.
+Group Activity
+Each trainee should create a personal Academy folder with subfolders:
+1. Assignments.
+2. CV.
+3. Presentations.
+4. Spreadsheets.
+5. Certificates.
+6. Portfolio.
+Assessment
+Trainees should organise five files into correct folders.
+Character Focus
+Orderliness
+Digital disorder creates confusion. Leaders organise their work.
+UNIT 5
+Word Processing and Document Creation
+Purpose
+To teach trainees how to create professional documents.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Open a word processing application.
+2. Type and edit text.
+3. Format headings and paragraphs.
+4. Use bold, italics and underline appropriately.
+5. Insert tables.
+6. Insert images where needed.
+7. Create letters, reports and forms.
+8. Save and print documents.
+Teaching Content
+Word processing is used for creating documents such as:
+1. Letters.
+2. Reports.
+3. CVs.
+4. Minutes.
+5. Proposals.
+6. Receipts.
+7. Forms.
+8. Notices.
+9. Training notes.
+10. Business plans.
+11. Trainees should learn:
+12. Font selection.
+13. Font size.
+14. Paragraph alignment.
+15. Line spacing.
+16. Margins.
+17. Page numbering.
+18. Bullets and numbering.
+19. Tables.
+20. Headers and footers.
+21. Spell check.
+22. Saving as PDF where available.
+23. Printing.
+Practical Demonstration
+Create a simple formal letter:
+1. Address.
+2. Date.
+3. Recipient.
+4. Greeting.
+5. Subject heading.
+6. Body.
+7. Closing.
+8. Name and signature.
+Group Activity
+Each trainee should create:
+1. A formal application letter.
+2. A one-page CV.
+3. A departmental report.
+4. A meeting notice.
+Assessment
+Assess documents for:
+1. Correct layout.
+2. Spelling.
+3. Neatness.
+4. Formatting.
+5. Proper saving.
+6. Professional appearance.
+Character Focus
+Excellence
+A document represents the person or organisation that created it.
+UNIT 6
+Spreadsheets, Calculations and Basic Data Records
+Purpose
+To teach trainees how to use spreadsheets for records, calculations and simple analysis.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Open a spreadsheet.
+2. Understand rows, columns and cells.
+3. Enter data.
+4. Format tables.
+5. Use simple formulas.
+6. Calculate totals.
+7. Create simple charts.
+8. Use spreadsheets for business and departmental records.
+Teaching Content
+Spreadsheets are useful for:
+1. Attendance records.
+2. Stock records.
+3. Sales records.
+4. Feeding records.
+5. Farm expenses.
+6. Catering costing.
+7. Payroll lists.
+8. Project budgets.
+9. School marks.
+10. Inventory.
+11. Harvest records.
+12. Departmental reports.
+13. Basic spreadsheet concepts:
+14. Workbook.
+15. Worksheet.
+16. Row.
+17. Column.
+18. Cell.
+19. Cell reference.
+20. Formula.
+21. Function.
+22. Table.
+23. Chart.
+24. Basic formulas:
+25. Addition.
+26. Subtraction.
+27. Multiplication.
+28. Division.
+29. Sum.
+30. Average.
+31. Minimum.
+32. Maximum.
+33. Percentage.
+Practical Demonstration
+Create a simple catering costing sheet:
+1. Item.
+2. Quantity.
+3. Unit cost.
+4. Total cost.
+5. Grand total.
+6. Selling price.
+7. Expected profit.
+Group Activity
+Each department group should create one spreadsheet:
+1. Fish Farming: Feeding record.
+2. Catering: Costing sheet.
+3. Survey: Tool inventory.
+4. Agriculture: Crop record.
+5. Office Administration: Attendance sheet.
+Assessment
+Trainees should create a spreadsheet with formulas and a simple chart.
+Character Focus
+Accuracy
+Wrong figures can lead to wrong decisions. Accuracy is part of integrity.
+UNIT 7
+Presentation Skills and Slide Preparation
+Purpose
+To teach trainees how to prepare and deliver simple digital presentations.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Open presentation software.
+2. Create slides.
+3. Add titles and bullet points.
+4. Insert images.
+5. Use readable fonts.
+6. Prepare a simple presentation.
+7. Speak confidently using slides.
+8. Avoid overcrowded slides.
+Teaching Content
+Presentation tools are used for:
+1. Teaching.
+2. Business pitches.
+3. Project reports.
+4. Departmental presentations.
+5. Church or ministry training.
+6. Community awareness.
+7. Product promotion.
+8. Graduation project defence.
+9. A good slide should be:
+10. Clear.
+11. Simple.
+12. Readable.
+13. Well arranged.
+14. Not overloaded.
+15. Relevant to the message.
+16. Supported by good speaking.
+17. Trainees should remember that slides support the speaker. Slides do not replace understanding.
+Practical Demonstration
+Create a five-slide presentation:
+1. Title slide.
+2. Problem.
+3. Solution.
+4. Steps.
+5. Conclusion.
+Group Activity
+Each group should prepare a presentation on one Academy department.
+Assessment
+Assess:
+1. Slide design.
+2. Message clarity.
+3. Confidence.
+4. Time management.
+5. Team participation.
+6. Proper saving.
+Character Focus
+Confidence with Humility
+Trainees should speak clearly without pride or fear.
+UNIT 8
+Internet Browsing and Online Research
+Purpose
+To teach trainees how to use the internet responsibly for learning, research and work.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Open a web browser.
+2. Search for information.
+3. Use search terms.
+4. Identify useful websites.
+5. Avoid unreliable information.
+6. Download files safely.
+7. Cite or acknowledge sources where needed.
+8. Use the internet for productive learning.
+Teaching Content
+The internet is a powerful information tool. It can help trainees learn skills, research markets, find jobs, watch tutorials, communicate, advertise and solve problems.
+However, not everything online is true. Trainees must learn to check information carefully.
+Good online research includes:
+1. Using clear search terms.
+2. Comparing more than one source.
+3. Checking the date of information.
+4. Checking the source or organisation.
+5. Avoiding rumours.
+6. Avoiding harmful websites.
+7. Not copying blindly.
+8. Respecting copyright.
+9. Saving useful links.
+10. Asking trainers when unsure.
+Practical Demonstration
+Research tasks:
+1. Search for basic poultry record keeping.
+2. Search for safe food handling.
+3. Search for CV writing tips.
+4. Search for fish farming feed management.
+5. Search for local business registration guidance.
+Group Activity
+Each group should research one topic and present three useful findings.
+Assessment
+Trainees should complete an internet research worksheet showing:
+1. Search terms used.
+2. Website visited.
+3. Information found.
+4. Why the source is useful.
+5. Date accessed.
+Character Focus
+Discernment
+Not every online information is true. Wise trainees verify before believing or sharing.
+UNIT 9
+Email and Professional Digital Communication
+Purpose
+To teach trainees how to communicate professionally online.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Create or use an email account responsibly.
+2. Compose a professional email.
+3. Use subject lines properly.
+4. Attach files.
+5. Reply politely.
+6. Avoid careless messages.
+7. Understand digital communication etiquette.
+Teaching Content
+Email is used for:
+1. Job applications.
+2. Business communication.
+3. School communication.
+4. Sending reports.
+5. Sending CVs.
+6. Receiving official messages.
+7. Customer service.
+8. Ministry administration.
+9. A professional email should include:
+10. Clear subject.
+11. Proper greeting.
+12. Short introduction.
+13. Clear message.
+14. Polite tone.
+15. Correct attachments.
+16. Proper closing.
+17. Full name and contact where necessary.
+18. Poor email habits include:
+19. No subject.
+20. Too many abbreviations.
+21. Rude language.
+22. Wrong attachment.
+23. Sending without proofreading.
+24. Forwarding private messages carelessly.
+25. Using unserious email names for formal matters.
+26. Replying angrily.
+Practical Demonstration
+Write a professional email applying for industrial attachment.
+Group Activity
+Trainees should practise:
+1. Sending a CV.
+2. Sending a report.
+3. Replying to a supervisor.
+4. Asking for clarification.
+5. Apologising professionally.
+Assessment
+Assess email for:
+1. Subject line.
+2. Greeting.
+3. Clarity.
+4. Tone.
+5. Attachment.
+6. Spelling.
+7. Closing.
+Character Focus
+Respectful Communication
+Digital messages should carry honour, clarity and humility.
+UNIT 10
+Cybersecurity, Password Safety and Online Protection
+Purpose
+To teach trainees how to protect themselves, their devices and organisational information online.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Explain cybersecurity in simple terms.
+2. Create strong passwords.
+3. Understand multi-factor authentication.
+4. Recognise phishing.
+5. Avoid suspicious links.
+6. Update software where possible.
+7. Protect personal information.
+8. Report online threats.
+Teaching Content
+Cybersecurity means protecting computers, phones, accounts, networks and information from theft, damage, fraud or misuse.
+CISA identifies basic cybersecurity practices such as using strong passwords, updating software, thinking before clicking suspicious links and turning on multi-factor authentication.
+Strong Password Habits
+Trainees should:
+1. Use long passwords.
+2. Avoid obvious passwords.
+3. Avoid using only names or birthdays.
+4. Avoid sharing passwords.
+5. Avoid using the same password everywhere.
+6. Change passwords when compromised.
+7. Use password managers where appropriate and understood.
+8. Enable multi-factor authentication where available.
+9. CISA explains that multi-factor authentication adds another method of verifying identity and helps prevent unauthorised access to accounts and applications.
+Phishing
+Phishing is when criminals try to trick people into revealing passwords, bank details or personal information.
+Warning signs include:
+1. Urgent threats.
+2. Unknown sender.
+3. Suspicious link.
+4. Poor spelling.
+5. Requests for password.
+6. Unexpected attachment.
+7. Fake prize.
+8. Bank verification request from unknown source.
+9. Strange email address.
+10. Pressure to act quickly.
+Practical Demonstration
+Show trainees examples of:
+1. Strong and weak passwords.
+2. Suspicious email.
+3. Safe and unsafe links.
+4. Fake login page.
+5. Secure website signs.
+6. Account recovery options.
+Group Activity
+Trainees should identify phishing warning signs from sample messages.
+Assessment
+Trainees should list five cybersecurity habits and identify phishing examples.
+Character Focus
+Watchfulness
+A careless click can cause serious loss. Digital wisdom requires alertness.
+UNIT 11
+Digital Ethics, Privacy and Responsible Technology Use
+Purpose
+To teach trainees moral responsibility in the use of technology.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Explain digital ethics.
+2. Respect privacy.
+3. Avoid cyberbullying.
+4. Avoid plagiarism.
+5. Respect copyright.
+6. Avoid online fraud.
+7. Use technology with Kingdom character.
+8. Protect confidential information.
+Teaching Content
+Digital ethics means doing what is right when using technology.
+Examples of digital ethics:
+1. Do not steal someone’s work.
+2. Do not share private information without permission.
+3. Do not spread lies.
+4. Do not insult people online.
+5. Do not impersonate others.
+6. Do not use technology for fraud.
+7. Do not watch or share harmful content.
+8. Do not copy assignments blindly.
+9. Do not expose organisational documents.
+10. Do not use office equipment for wrong purposes.
+11. Do not edit records dishonestly.
+12. Do not manipulate images to deceive.
+Privacy
+Privacy means protecting personal or confidential information.
+Examples of private information:
+1. Passwords.
+2. Bank details.
+3. Medical information.
+4. Personal identification numbers.
+5. Staff records.
+6. Student records.
+7. Customer details.
+8. Business records.
+9. Private emails.
+10. Photos shared in confidence.
+Practical Demonstration
+Discuss scenarios:
+1. A trainee sees a private staff file on a computer.
+2. A trainee uses someone else’s photo for an advert without permission.
+3. A trainee forwards a confidential email.
+4. A trainee copies online work and submits it as original.
+5. A trainee insults a customer on social media.
+Group Activity
+Groups should prepare a digital ethics code for EBOMI trainees.
+Assessment
+Trainees should explain five digital ethics rules.
+Character Focus
+Integrity
+Character must be visible online and offline.
+UNIT 12
+Social Media for Communication, Ministry and Business
+Purpose
+To teach trainees how to use social media productively and responsibly.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Understand social media platforms.
+2. Use social media for positive communication.
+3. Promote products or services responsibly.
+4. Create simple business posts.
+5. Avoid online arguments and harmful content.
+6. Build a respectful digital reputation.
+Teaching Content
+Social media can be used for:
+1. Business promotion.
+2. Ministry communication.
+3. Community awareness.
+4. Product adverts.
+5. Customer engagement.
+6. Event announcements.
+7. Testimonies.
+8. Educational content.
+9. Networking.
+10. Job opportunities.
+11. However, social media can also waste time, damage reputation and spread harmful information if not used wisely.
+Good social media conduct includes:
+1. Think before posting.
+2. Check facts before sharing.
+3. Use respectful language.
+4. Avoid insults.
+5. Protect privacy.
+6. Avoid fake news.
+7. Use clear images.
+8. Use simple captions.
+9. Respond politely.
+10. Separate personal conduct from business image.
+11. Avoid posting confidential information.
+12. Avoid immoral or violent content.
+Practical Demonstration
+Create a simple social media post for:
+1. Catering service.
+2. Fish farming harvest.
+3. ICT training advert.
+4. EBOMI community service.
+5. Graduation announcement.
+Group Activity
+Each group should design a social media campaign for one Academy department.
+Assessment
+Assess:
+1. Message clarity.
+2. Design.
+3. Caption.
+4. Professional tone.
+5. Ethical use of images.
+6. Call to action.
+Character Focus
+Digital Reputation
+What a trainee posts online can open or close doors.
+UNIT 13
+Digital Content Creation and Basic Design
+Purpose
+To train trainees to create simple digital materials for communication, business and ministry.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Explain digital content creation.
+2. Create simple posters.
+3. Design simple flyers.
+4. Prepare simple announcements.
+5. Edit basic images responsibly.
+6. Use colours and fonts appropriately.
+7. Create content for business or community service.
+Teaching Content
+Digital content includes:
+1. Posters.
+2. Flyers.
+3. Announcements.
+4. Short videos.
+5. Social media posts.
+6. Product images.
+7. Event banners.
+8. Training materials.
+9. Infographics.
+10. Simple adverts.
+11. Good design should be:
+12. Clear.
+13. Readable.
+14. Balanced.
+15. Not overcrowded.
+16. Suitable for the audience.
+17. Honest.
+18. Consistent in colours and style.
+19. Free from unnecessary distractions.
+20. Trainees should avoid:
+21. Misleading adverts.
+22. Using stolen images.
+23. False claims.
+24. Poor spelling.
+25. Too many fonts.
+26. Too many colours.
+27. Hard-to-read text.
+28. Exaggerated promises.
+Practical Demonstration
+Design a simple flyer with:
+1. Title.
+2. Image.
+3. Date or contact where relevant.
+4. Short message.
+5. Clear call to action.
+6. Organisation name.
+Group Activity
+Each group should create one poster:
+1. Food hygiene poster.
+2. Cybersecurity awareness poster.
+3. Fish farming advert.
+4. EBOMI training announcement.
+5. Community service flyer.
+Assessment
+Assess:
+1. Clarity.
+2. Layout.
+3. Spelling.
+4. Design balance.
+5. Ethical image use.
+6. Message effectiveness.
+Character Focus
+Creativity with Truth
+Creative content must still be honest.
+UNIT 14
+Online Meetings, Collaboration and Cloud Tools
+Purpose
+To teach trainees how to collaborate digitally for work, learning and meetings.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Join an online meeting.
+2. Use microphone and camera appropriately.
+3. Share files digitally.
+4. Collaborate on documents where available.
+5. Use cloud storage responsibly.
+6. Practise online meeting etiquette.
+Teaching Content
+Online collaboration is now common in education, business, ministry and remote work.
+Digital collaboration may include:
+1. Online meetings.
+2. Shared documents.
+3. Shared folders.
+4. Group chats.
+5. Project boards.
+6. Email collaboration.
+7. Cloud storage.
+8. Online forms.
+9. Online meeting etiquette includes:
+10. Join early.
+11. Dress properly.
+12. Mute microphone when not speaking.
+13. Speak respectfully.
+14. Avoid noise.
+15. Use real name where appropriate.
+16. Do not record without permission.
+17. Avoid interrupting.
+18. Pay attention.
+19. Leave politely.
+20. Cloud storage helps users save files online, but trainees must protect passwords and avoid sharing confidential files carelessly.
+Practical Demonstration
+Conduct a mock online meeting.
+Trainees should practise:
+1. Joining meeting.
+2. Muting and unmuting.
+3. Sending chat message.
+4. Sharing a file.
+5. Taking meeting notes.
+6. Leaving the meeting.
+Group Activity
+Groups should collaborate on a shared document or shared file folder where available.
+Assessment
+Assess online meeting conduct and file-sharing discipline.
+Character Focus
+Respect
+Digital meetings require the same honour as physical meetings.
+UNIT 15
+Basic Data Entry, Records and Digital Administration
+Purpose
+To train trainees to support offices and departments through accurate digital records.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Explain data entry.
+2. Enter information accurately.
+3. Maintain simple digital records.
+4. Use forms and tables.
+5. Check data for errors.
+6. Protect confidential records.
+7. Prepare basic administrative reports.
+Teaching Content
+Data entry means putting information into a computer system, spreadsheet, form or database.
+Data may include:
+1. Names.
+2. Phone numbers.
+3. Attendance.
+4. Payments.
+5. Sales.
+6. Stock.
+7. Scores.
+8. Customer details.
+9. Farm records.
+10. Training records.
+11. Inventory.
+12. Reports.
+13. Good data entry requires:
+14. Accuracy.
+15. Consistency.
+16. Careful spelling.
+17. Correct dates.
+18. Correct numbers.
+19. Confidentiality.
+20. Verification.
+21. Neat arrangement.
+22. Regular backup.
+23. Correction of errors.
+Practical Demonstration
+Create a trainee attendance record with:
+1. Name.
+2. Department.
+3. Week.
+4. Attendance status.
+5. Punctuality.
+6. Trainer comment.
+Group Activity
+Each group should enter sample records and check for errors.
+Assessment
+Assess:
+1. Accuracy.
+2. Speed.
+3. Formatting.
+4. Error correction.
+5. Confidentiality awareness.
+Character Focus
+Faithfulness in Details
+Small data errors can create big problems. Accuracy is a form of faithfulness.
+UNIT 16
+Artificial Intelligence Awareness and Responsible Use
+Purpose
+To introduce trainees to artificial intelligence and teach responsible, ethical and productive use.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Explain artificial intelligence in simple terms.
+2. Identify common AI tools and uses.
+3. Understand benefits and risks of AI.
+4. Use AI tools responsibly for learning and productivity.
+5. Avoid copying AI outputs blindly.
+6. Protect private information when using AI.
+7. Check AI responses for accuracy.
+8. Use AI with human judgement and Kingdom values.
+Teaching Content
+Artificial intelligence refers to computer systems that can perform tasks that normally require human intelligence, such as recognising patterns, generating text, answering questions, translating, summarising, analysing data or helping with ideas.
+UNESCO’s AI Competency Framework for Students teaches that learners should be prepared to engage with AI safely and meaningfully as responsible users and co-creators.
+AI can help trainees with:
+1. Writing drafts.
+2. Summarising notes.
+3. Learning explanations.
+4. Brainstorming business ideas.
+5. Preparing CVs.
+6. Creating study questions.
+7. Translating simple text.
+8. Designing project outlines.
+9. Analysing simple information.
+10. Improving communication.
+11. AI risks include:
+12. Wrong information.
+13. Overdependence.
+14. Copying without understanding.
+15. Privacy exposure.
+16. Bias.
+17. Plagiarism.
+18. Fake images or messages.
+19. Misleading content.
+20. Loss of original thinking.
+21. Unethical use.
+Rules for Responsible AI Use
+Trainees should:
+1. Use AI as an assistant, not as their brain.
+2. Check important answers.
+3. Never submit AI work without understanding it.
+4. Never enter private or confidential information.
+5. Use AI to learn, not to cheat.
+6. Respect copyright and originality.
+7. Ask trainers when unsure.
+8. Avoid using AI to deceive people.
+9. Edit and verify outputs.
+10. Give credit where required.
+Practical Demonstration
+The trainer should show how AI can help with:
+1. Drafting a business idea.
+2. Improving a CV summary.
+3. Creating a study plan.
+4. Explaining a spreadsheet formula.
+5. Generating a poster caption.
+6. Producing interview practice questions.
+7. Then the trainer should show how to check and improve the output manually.
+Group Activity
+Groups should use AI under supervision to create an outline for a small business plan, then edit it with human judgement.
+Assessment
+Trainees should explain five benefits and five risks of AI.
+Character Focus
+Wisdom and Honesty
+AI must not be used for laziness, deception or pride. It should support learning, service and productivity.
+UNIT 17
+Digital Entrepreneurship and Online Business
+Purpose
+To prepare trainees to use digital tools for income generation, business growth and service.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Identify digital business opportunities.
+2. Use digital tools to support a small business.
+3. Create simple online adverts.
+4. Communicate with customers online.
+5. Keep digital sales records.
+6. Understand online trust and reputation.
+7. Prepare a simple digital enterprise plan.
+Teaching Content
+Digital entrepreneurship means using digital tools to create, promote, manage or grow a business.
+Opportunities include:
+1. Online food sales.
+2. Digital flyer design.
+3. Social media management.
+4. Typing and printing services.
+5. Data entry services.
+6. Online tutoring support.
+7. Product photography.
+8. CV and document formatting.
+9. Basic computer training.
+10. Online farm product marketing.
+11. Event publicity.
+12. Digital records for small businesses.
+13. Internet research services.
+14. Content creation.
+15. E-commerce support.
+16. A digital entrepreneur must build trust.
+Trust is built through:
+1. Honest adverts.
+2. Clear pricing.
+3. Good customer service.
+4. Timely delivery.
+5. Respectful communication.
+6. Good records.
+7. No fraud.
+8. No fake testimonies.
+9. No false images.
+10. Consistent quality.
+Practical Demonstration
+Create a simple digital business plan:
+1. Business name.
+2. Service offered.
+3. Target customers.
+4. Tools needed.
+5. Cost.
+6. Pricing.
+7. Marketing method.
+8. Customer communication method.
+9. Record keeping.
+10. Ethics commitment.
+Group Activity
+Each group should create a digital promotion plan for one small business idea.
+Assessment
+Assess through business plan, advert sample and presentation.
+Character Focus
+Trustworthiness
+Digital business grows when customers can trust the person behind the screen.
+UNIT 18
+Industrial Attachment Preparation and Workplace Practice
+Purpose
+To prepare trainees for ICT-related workplace attachment.
+Learning Objectives
+By the end of this unit, trainees should be able to:
+1. Understand attachment expectations.
+2. Behave professionally in an office or ICT environment.
+3. Protect organisational information.
+4. Keep attachment logbooks.
+5. Use digital tools under supervision.
+6. Submit weekly attachment reports.
+Teaching Content
+During industrial attachment, trainees may work in:
+1. Offices.
+2. Schools.
+3. ICT centres.
+4. Business centres.
+5. NGOs.
+6. Churches or ministries.
+7. Farms with digital records.
+8. Construction companies.
+9. Government offices.
+10. Media units.
+11. Printing centres.
+12. Digital marketing offices.
+13. Administrative departments.
+14. Trainees must remember that attachment is part of training. They must not be careless with files, devices, passwords or confidential information.
+Workplace Expectations
+Trainees should:
+1. Arrive early.
+2. Dress properly.
+3. Respect supervisors.
+4. Follow instructions.
+5. Ask questions humbly.
+6. Protect office equipment.
+7. Avoid unauthorised browsing.
+8. Avoid copying files without permission.
+9. Avoid exposing passwords.
+10. Keep daily logbook.
+11. Do assigned work carefully.
+12. Report errors quickly.
+13. Maintain confidentiality.
+14. Submit weekly reports.
+15. Thank the host organisation.
+Practical Demonstration
+Conduct a mock office induction.
+Include:
+1. Greeting supervisor.
+2. Receiving assigned computer.
+3. Understanding office rules.
+4. Saving files properly.
+5. Sending a report by email.
+6. Reporting a computer problem.
+7. Closing work for the day.
+Group Activity
+Trainees should prepare an attachment readiness checklist.
+Assessment
+Assess through oral interview, checklist and workplace conduct role-play.
+Character Focus
+Professional Responsibility
+Digital workers must be trusted with information, equipment and time.
+PART EIGHT
+PRACTICAL TRAINING SCHEDULE
+The department may use the following structure during Phase One.
+Month 1: ICT Introduction, Computer Basics and Typing
+Key Focus
+1. Meaning of ICT.
+2. Computer parts.
+3. Hardware and software.
+4. Switching on and shutting down.
+5. Mouse practice.
+6. Keyboard practice.
+7. Typing basics.
+8. Computer laboratory rules.
+Practical Activities
+1. Identify computer parts.
+2. Practise mouse use.
+3. Type name and personal details.
+4. Type a Bible verse.
+5. Save first document.
+6. Create personal folder.
+7. Practise safe shutdown.
+Assessment
+1. Hardware identification.
+2. Typing accuracy.
+3. File saving.
+4. Attendance and punctuality.
+Month 2: File Management and Word Processing
+Key Focus
+1. Files and folders.
+2. Saving and renaming files.
+3. Word processing.
+4. Formal letters.
+5. CV preparation.
+6. Reports.
+7. Tables.
+8. Printing and PDF saving where available.
+Practical Activities
+1. Create folders.
+2. Type formal letter.
+3. Prepare one-page CV.
+4. Create simple table.
+5. Format document.
+6. Save and organise files.
+7. Print or export document where available.
+Assessment
+1. Folder organisation.
+2. Formal letter.
+3. CV.
+4. Document formatting.
+Month 3: Spreadsheets and Digital Records
+Key Focus
+1. Rows, columns and cells.
+2. Data entry.
+3. Basic formulas.
+4. Totals and averages.
+5. Formatting tables.
+6. Simple charts.
+7. Attendance records.
+8. Sales and stock records.
+Practical Activities
+1. Create attendance sheet.
+2. Create sales record.
+3. Use SUM formula.
+4. Calculate profit.
+5. Create simple chart.
+6. Format spreadsheet.
+7. Save and submit file.
+Assessment
+1. Spreadsheet accuracy.
+2. Formula use.
+3. Chart creation.
+4. Record organisation.
+Month 4: Presentations, Internet Research and Email
+Key Focus
+1. Slide creation.
+2. Presentation structure.
+3. Internet search.
+4. Source checking.
+5. Email writing.
+6. Attachments.
+7. Online communication etiquette.
+8. Digital research assignment.
+Practical Activities
+1. Create five-slide presentation.
+2. Present to class.
+3. Research a topic online.
+4. Write professional email.
+5. Attach CV or report.
+6. Reply to a message.
+7. Submit research worksheet.
+Assessment
+1. Presentation.
+2. Internet research worksheet.
+3. Email assignment.
+4. Communication etiquette.
+Month 5: Cybersecurity, Digital Ethics and Social Media
+Key Focus
+1. Password safety.
+2. Multi-factor authentication.
+3. Phishing.
+4. Online scams.
+5. Privacy.
+6. Digital ethics.
+7. Social media conduct.
+8. Business communication online.
+Practical Activities
+1. Identify phishing messages.
+2. Create strong password examples.
+3. Discuss privacy scenarios.
+4. Create social media advert.
+5. Prepare digital ethics code.
+6. Analyse fake news examples.
+7. Practise safe online behaviour.
+Assessment
+1. Cybersecurity quiz.
+2. Phishing identification.
+3. Social media post.
+4. Digital ethics reflection.
+Month 6: Content Creation, AI Awareness and Digital Business
+Key Focus
+1. Poster design.
+2. Digital flyers.
+3. Basic image use.
+4. AI awareness.
+5. Responsible AI use.
+6. Digital enterprise.
+7. Online marketing.
+8. Customer communication.
+Practical Activities
+1. Design flyer.
+2. Create business advert.
+3. Use AI under supervision for planning.
+4. Check and edit AI output.
+5. Prepare digital business plan.
+6. Present online marketing idea.
+7. Build simple digital portfolio.
+Assessment
+1. Flyer design.
+2. AI responsibility exercise.
+3. Digital business plan.
+4. Portfolio progress.
+Month 7: Workplace Readiness and Final ICT Project
+Key Focus
+1. Digital CV.
+2. Portfolio completion.
+3. Office conduct.
+4. Attachment preparation.
+5. Final practical project.
+6. Oral interview.
+7. Trainer recommendation.
+8. Digital service mindset.
+Practical Activities
+1. Complete digital CV.
+2. Complete portfolio.
+3. Prepare final project.
+4. Simulate office task.
+5. Send final report by email.
+6. Present project.
+7. Complete attachment readiness form.
+Assessment
+1. Final project.
+2. Portfolio.
+3. Email submission.
+4. Office task simulation.
+5. Oral interview.
+6. Trainer recommendation.
+PART NINE
+DAILY COMPUTER LABORATORY ROUTINE
+Every ICT trainee should understand and follow the daily routine.
+Before Practical Session
+1. Arrive early.
+2. Pray and receive instructions.
+3. Check assigned computer.
+4. Ensure hands are clean and dry.
+5. Keep food and drinks away.
+6. Sit properly.
+7. Open only approved applications.
+8. Prepare notebook and logbook.
+9. Listen to trainer’s demonstration.
+10. Ask questions respectfully.
+During Practical Session
+1. Follow instructions step by step.
+2. Practise carefully.
+3. Do not disturb others.
+4. Save work regularly.
+5. Avoid unauthorised browsing.
+6. Avoid changing system settings without permission.
+7. Avoid deleting other people’s files.
+8. Report technical problems.
+9. Keep noise low.
+10. Record what was learnt.
+After Practical Session
+1. Save work properly.
+2. Back up where instructed.
+3. Close applications.
+4. Shut down correctly.
+5. Arrange keyboard and mouse.
+6. Clean work area.
+7. Return borrowed devices.
+8. Submit assignment if required.
+9. Update practical logbook.
+10. Leave the laboratory orderly.
+PART TEN
+COMPUTER LABORATORY RULES
+Trainees must observe the following rules:
+1. Do not enter the laboratory without permission.
+2. Do not bring food or drinks near computers.
+3. Do not touch cables carelessly.
+4. Do not switch off computers wrongly.
+5. Do not install software without permission.
+6. Do not remove computer parts.
+7. Do not use another trainee’s account without permission.
+8. Do not share passwords.
+9. Do not browse harmful websites.
+10. Do not use the internet for fraud.
+11. Do not download unknown files carelessly.
+12. Do not delete another person’s work.
+13. Do not change system settings without approval.
+14. Do not use abusive language online.
+15. Do not copy assignments dishonestly.
+16. Do not expose private files.
+17. Report faults immediately.
+18. Keep the laboratory clean.
+19. Use equipment gently.
+20. Follow trainer instructions at all times.
+PART ELEVEN
+CYBERSECURITY AND DIGITAL SAFETY RULES
+Basic Digital Safety Rules
+1. Use strong passwords.
+2. Do not share passwords.
+3. Enable multi-factor authentication where available.
+4. Think before clicking links.
+5. Avoid suspicious attachments.
+6. Check sender email addresses.
+7. Do not reveal bank details carelessly.
+8. Do not send private documents to strangers.
+9. Avoid public Wi-Fi for sensitive transactions where possible.
+10. Log out from shared computers.
+11. Update devices where possible.
+12. Use antivirus where available.
+13. Back up important files.
+14. Report suspicious messages.
+15. Do not respond to threats or scams.
+16. Do not send money because of online pressure.
+17. Protect personal photos and documents.
+18. Do not impersonate others.
+19. Avoid illegal downloads.
+20. Ask for guidance when unsure.
+Digital Safety Character Lesson
+A trainee who is careless online may lose money, reputation, data or opportunity. Digital discipline protects destiny.
+PART TWELVE
+AI RESPONSIBLE USE RULES FOR EBOMI TRAINEES
+Trainees may use AI tools only under approved guidance and for learning, productivity and creativity.
+Approved Uses
+1. Explaining difficult topics.
+2. Drafting study notes.
+3. Practising interview questions.
+4. Improving grammar.
+5. Brainstorming business ideas.
+6. Summarising training notes.
+7. Creating project outlines.
+8. Generating learning questions.
+9. Improving CV wording.
+10. Supporting content ideas.
+Unacceptable Uses
+1. Cheating in assignments.
+2. Submitting AI work without understanding.
+3. Creating lies.
+4. Creating fake testimonies.
+5. Impersonating others.
+6. Producing fraudulent documents.
+7. Sharing private information.
+8. Copying confidential Academy materials.
+9. Generating harmful content.
+10. Avoiding personal learning.
+AI Use Checklist
+Before using AI output, trainees should ask:
+1. Do I understand this?
+2. Is it true?
+3. Have I checked it?
+4. Is it ethical?
+5. Does it expose private information?
+6. Does it honour God?
+7. Does it help me learn?
+8. Have I edited it properly?
+9. Can I explain it in my own words?
+10. Am I using it to serve or to deceive?
+PART THIRTEEN
+RECORD KEEPING TEMPLATES
+1. ICT Practical Logbook
+Date
+Topic Practised
+Software Used
+Task Completed
+Challenge Faced
+Trainer Comment
+2. Typing Progress Record
+Week
+Words Per Minute
+Accuracy
+Passage Typed
+Improvement Needed
+Trainer Signature
+3. File Management Checklist
+Task
+Completed
+Trainer Comment
+Created personal folder
+Created subfolders
+Saved files correctly
+Renamed files properly
+Moved files correctly
+Backed up important files
+4. Word Processing Assignment Record
+Assignment
+Date Submitted
+Formatting
+Spelling
+Layout
+Score
+Comment
+5. Spreadsheet Assignment Record
+Assignment
+Formula Used
+Accuracy
+Table Formatting
+Chart
+Score
+Comment
+6. Email Practice Record
+Task
+Subject Line
+Attachment
+Tone
+Clarity
+Trainer Comment
+7. Cybersecurity Awareness Checklist
+Safety Practice
+Demonstrated
+Comment
+Creates strong password
+Recognises phishing
+Avoids suspicious links
+Understands MFA
+Protects private information
+Logs out from shared computers
+8. Final Digital Portfolio Checklist
+Portfolio Item
+Completed
+Trainer Comment
+Digital CV
+Formal letter
+Spreadsheet record
+Presentation file
+Flyer or poster
+Internet research worksheet
+Email assignment
+Digital business idea
+AI responsible use reflection
+Final project
+PART FOURTEEN
+DEPARTMENTAL ASSESSMENT STRUCTURE
+1. Assessment Areas
+Trainees should be assessed in the following areas:
+1. Attendance and punctuality.
+2. Computer care.
+3. Typing accuracy.
+4. File management.
+5. Word processing.
+6. Spreadsheet use.
+7. Presentation preparation.
+8. Internet research.
+9. Email communication.
+10. Cybersecurity awareness.
+11. Digital ethics.
+12. Social media content.
+13. Digital design.
+14. Data entry.
+15. AI responsible use.
+16. Digital entrepreneurship.
+17. Portfolio completion.
+18. Teamwork.
+19. Industrial attachment performance.
+20. Character and discipline.
+2. Recommended Assessment Weighting
+Assessment Area
+Percentage
+Character, Discipline and Attendance
+20%
+Practical Computer and Office Skills
+30%
+Digital Communication and Internet Research
+10%
+Cybersecurity, Ethics and Responsible AI Use
+15%
+Content Creation, Portfolio and Digital Enterprise
+15%
+Industrial Attachment Performance
+10%
+Total
+100%
+3. Practical Competence Checklist
+A trainee should demonstrate ability to:
+1. Switch on and shut down a computer correctly.
+2. Use keyboard and mouse.
+3. Type a simple document.
+4. Save and organise files.
+5. Create folders.
+6. Prepare a formal letter.
+7. Prepare a CV.
+8. Create a simple spreadsheet.
+9. Use basic formulas.
+10. Create a simple chart.
+11. Prepare a presentation.
+12. Use email professionally.
+13. Attach files to email.
+14. Search the internet responsibly.
+15. Identify phishing messages.
+16. Explain password safety.
+17. Create a digital poster.
+18. Enter data accurately.
+19. Use AI responsibly under guidance.
+20. Prepare a digital business idea.
+21. Complete a digital portfolio.
+22. Present a final ICT project.
+4. Character Assessment Checklist
+The trainer should observe whether the trainee is:
+1. Punctual.
+2. Focused.
+3. Respectful.
+4. Honest.
+5. Teachable.
+6. Careful with equipment.
+7. Accurate in work.
+8. Patient with learning.
+9. Not using computers for harmful content.
+10. Not copying dishonestly.
+11. Not sharing passwords.
+12. Not wasting practical time.
+13. Helpful to others.
+14. Able to receive correction.
+15. Responsible with files.
+16. Trustworthy with information.
+17. Productive online.
+18. Consistent in assignments.
+PART FIFTEEN
+INDUSTRIAL ATTACHMENT GUIDE
+1. Suitable Attachment Places
+Trainees may be attached to:
+1. Offices.
+2. Schools.
+3. ICT centres.
+4. Business centres.
+5. Printing centres.
+6. NGOs.
+7. Ministries.
+8. Churches.
+9. Farms with digital records.
+10. Construction companies.
+11. Hospitals or clinics where permitted.
+12. Media units.
+13. Digital marketing agencies.
+14. Cyber cafés.
+15. Administrative departments.
+16. Computer training centres.
+17. Customer service centres.
+18. Data entry units.
+2. Attachment Learning Objectives
+During attachment, trainees should learn:
+1. Office computer use.
+2. Professional typing.
+3. File organisation.
+4. Document preparation.
+5. Spreadsheet records.
+6. Email communication.
+7. Printing and scanning.
+8. Customer service.
+9. Data entry.
+10. Digital record keeping.
+11. Social media support where permitted.
+12. Basic ICT troubleshooting.
+13. Workplace confidentiality.
+14. Professional conduct.
+15. Time management.
+16. Reporting.
+3. Attachment Conduct Rules
+Trainees must:
+1. Arrive early.
+2. Dress appropriately.
+3. Respect supervisors.
+4. Follow instructions.
+5. Keep daily logbook.
+6. Protect passwords.
+7. Avoid copying files without permission.
+8. Avoid using office internet for personal waste.
+9. Avoid exposing confidential information.
+10. Avoid installing software without permission.
+11. Avoid deleting files carelessly.
+12. Ask before printing personal documents.
+13. Report computer faults.
+14. Submit weekly reports.
+15. Maintain Academy values.
+16. Thank the host organisation.
+4. Weekly Attachment Report Format
+Each weekly report should include:
+1. Name of trainee.
+2. Host organisation.
+3. Week number.
+4. Tasks observed.
+5. Tasks performed.
+6. Software used.
+7. Documents prepared.
+8. Records handled.
+9. Communication tasks.
+10. Technical skills learnt.
+11. Workplace ethics lessons.
+12. Challenges faced.
+13. How challenges were handled.
+14. Supervisor comments.
+15. Trainee reflection.
+5. Final Attachment Report Format
+The final report should include:
+1. Introduction.
+2. Description of host organisation.
+3. ICT tools and systems used.
+4. Office tasks performed.
+5. Documents prepared.
+6. Spreadsheet or records handled.
+7. Email or communication tasks.
+8. Customer service exposure.
+9. Cybersecurity and confidentiality lessons.
+10. Digital ethics lessons.
+11. Challenges faced.
+12. Solutions observed.
+13. Personal skills gained.
+14. Character lessons.
+15. Recommendations.
+16. Conclusion.
+17. Appreciation.
+PART SIXTEEN
+FINAL PROJECT
+Each trainee should complete one final departmental project.
+Project Options
+1. Create a digital CV and job application package.
+2. Prepare an EBOMI departmental report using word processing.
+3. Create a spreadsheet record system for a small business.
+4. Create a digital attendance and score sheet.
+5. Design a social media campaign for an Academy department.
+6. Create a five-slide business presentation.
+7. Prepare a digital flyer and marketing caption.
+8. Create a cybersecurity awareness poster.
+9. Prepare a digital portfolio.
+10. Create a simple data entry and reporting system.
+11. Prepare a responsible AI use guide for trainees.
+12. Create a digital business plan for a small ICT service.
+Project Presentation
+Each trainee should present:
+1. Project title.
+2. Purpose.
+3. Tools used.
+4. Steps taken.
+5. Files created.
+6. Skills demonstrated.
+7. Challenges faced.
+8. How challenges were solved.
+9. Ethical considerations.
+10. Business or workplace application.
+11. Character lessons.
+12. Future use.
+PART SEVENTEEN
+GRADUATION COMPETENCE STANDARD
+A trainee may be recommended for certification in ICT and Digital Skills if he or she can:
+1. Explain ICT and digital literacy clearly.
+2. Identify basic computer parts.
+3. Operate a computer safely.
+4. Type and format a simple document.
+5. Manage files and folders.
+6. Prepare a formal letter.
+7. Prepare a CV.
+8. Use spreadsheets for simple records.
+9. Use formulas for basic calculations.
+10. Prepare a simple presentation.
+11. Search the internet responsibly.
+12. Send a professional email with attachment.
+13. Explain password safety.
+14. Identify phishing risks.
+15. Explain digital ethics and privacy.
+16. Create simple digital content.
+17. Use AI responsibly under guidance.
+18. Prepare a digital portfolio.
+19. Complete industrial attachment satisfactorily.
+20. Submit logbook and final report.
+21. Present a final project.
+22. Demonstrate honesty, discipline and responsibility.
+23. Receive trainer and mentor approval.
+PART EIGHTEEN
+TRAINER’S IMPLEMENTATION GUIDE
+1. Weekly Trainer Duties
+The trainer should:
+1. Prepare weekly lesson notes.
+2. Inspect the computer laboratory.
+3. Check computers before training.
+4. Assign trainees to workstations.
+5. Demonstrate each skill before practice.
+6. Monitor practical work.
+7. Correct mistakes patiently.
+8. Review saved files.
+9. Review logbooks.
+10. Mark assignments.
+11. Teach cybersecurity awareness.
+12. Enforce digital ethics.
+13. Encourage peer support.
+14. Report equipment faults.
+15. Prepare trainees for attachment.
+16. Monitor portfolio development.
+2. Common Trainee Mistakes to Correct
+1. Switching off computers wrongly.
+2. Not saving work.
+3. Saving files in wrong places.
+4. Poor file names.
+5. Typing without proofreading.
+6. Using too many fonts.
+7. Poor spreadsheet formulas.
+8. Copying work dishonestly.
+9. Clicking suspicious links.
+10. Sharing passwords.
+11. Using laboratory time for entertainment.
+12. Downloading unknown files.
+13. Sending emails without attachments.
+14. Poor digital communication tone.
+15. Overcrowded slides.
+16. Poor poster design.
+17. Not checking AI output.
+18. Entering private information into online tools.
+19. Ignoring trainer instructions.
+20. Rough handling of equipment.
+3. Trainer’s Weekly Questions
+The trainer should regularly ask:
+1. What digital skill did you practise this week?
+2. What file did you create?
+3. Where did you save it?
+4. What formula did you use?
+5. What cybersecurity lesson did you learn?
+6. What digital ethics issue did you discuss?
+7. What mistake did you correct?
+8. How did you help another trainee?
+9. What workplace use does this skill have?
+10. What will you improve next week?
+PART NINETEEN
+KINGDOM CHARACTER IN ICT AND DIGITAL SKILLS
+ICT training must be connected to Kingdom character.
+1. Integrity
+Do not use technology for lying, fraud, cheating, plagiarism, impersonation or manipulation.
+2. Discipline
+Do not waste training time on entertainment, gossip or careless browsing.
+3. Stewardship
+Care for computers, software, internet data, electricity and digital tools.
+4. Truthfulness
+Do not spread fake news, false reports or misleading content.
+5. Confidentiality
+Protect private files, passwords, customer records and organisational documents.
+6. Excellence
+Prepare neat documents, accurate records and clear presentations.
+7. Service
+Use technology to help people, support departments, build businesses and improve communities.
+8. Creativity
+Create useful digital content that inspires, informs and solves problems.
+9. Humility
+Be willing to learn, ask questions and receive correction.
+10. Accountability
+Be responsible for your digital actions, files, messages and online conduct.
+PART TWENTY
+SAMPLE WEEKLY LESSON PLAN
+Week Topic: Word Processing and Professional Documents
+Learning Objectives
+By the end of the week, trainees should be able to:
+1. Open a word processing application.
+2. Type and format a formal letter.
+3. Prepare a simple CV.
+4. Insert a table.
+5. Save the document properly.
+6. Submit the assignment digitally.
+Key Scripture
+Proverbs 22:29
+Memory Verse
+Colossians 3:23
+Teaching Notes
+Professional documents are important in job applications, business, administration and ministry. A poorly prepared document can create a bad impression, while a neat document shows seriousness and excellence.
+Practical Demonstration
+The trainer demonstrates:
+1. Opening a blank document.
+2. Setting font and spacing.
+3. Typing a formal letter.
+4. Adding heading.
+5. Formatting paragraphs.
+6. Creating a table.
+7. Saving the file properly.
+8. Exporting or printing where available.
+Group Activity
+Trainees prepare a formal application letter for industrial attachment.
+Discussion Questions
+1. Why should documents be neat?
+2. What makes a formal letter professional?
+3. Why should trainees proofread before submission?
+4. How can word processing help other Academy departments?
+Assessment Method
+1. Document layout.
+2. Spelling.
+3. Formatting.
+4. File name.
+5. Saving location.
+6. Timely submission.
+Homework
+Prepare a one-page CV and save it in your personal Academy folder.
+Trainer’s Closing Charge
+Type with care. Save with order. Present with excellence. Let your digital work show discipline, wisdom and integrity.
+PART TWENTY-ONE
+FINAL DEPARTMENTAL CHARGE
+ICT and Digital Skills are powerful tools for the present generation. A trainee who learns these skills can support offices, manage records, communicate professionally, create content, promote businesses, prepare reports, protect information and open new opportunities.
+But technology must never control the trainee. The trainee must use technology with wisdom, discipline and purpose.
+Do not use technology to lie.Do not use technology to cheat.Do not use technology to steal.Do not use technology to waste your destiny.Do not use technology to destroy another person.Do not use technology to spread darkness.
+Use technology to learn.Use technology to serve.Use technology to create.Use technology to organise.Use technology to communicate truth.Use technology to build business.Use technology to support ministry.Use technology to solve problems.Use technology to glorify God.
+Let your documents be neat.Let your records be accurate.Let your messages be respectful.Let your passwords be protected.Let your online conduct be honourable.Let your creativity be useful.Let your digital footprint be clean.
+The world needs skilled people, but it needs trustworthy skilled people even more.
+Be skilled.Be disciplined.Be ethical.Be creative.Be productive.Be a Kingdom digital leader.
