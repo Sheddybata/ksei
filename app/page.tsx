@@ -4,9 +4,6 @@ import { SiteHeader } from "@/components/site/header";
 import { academyMotto, academyVision, departmentalModules, programmeImage, programmeSlug } from "@/lib/academy";
 import { outcomes, weekRhythm } from "@/lib/formation";
 import { ProgrammeCard } from "@/components/site/programme-card";
-import { prisma } from "@/lib/prisma";
-
-export const dynamic = "force-dynamic";
 
 const steps = [
   { title: "Commit", copy: "Apply to one programme and accept the year: devotion, practical work, community service and workplace attachment." },
@@ -15,23 +12,7 @@ const steps = [
   { title: "Empower", copy: "A certificate only when character and practical skill both hold, then follow-up after graduation." },
 ];
 
-async function publicCounts() {
-  if (!process.env.DATABASE_URL) return { students: 0, courses: 0, applications: 0 };
-  try {
-    const [students, courses, applications] = await Promise.all([
-      prisma.student.count(),
-      prisma.course.count(),
-      prisma.application.count(),
-    ]);
-    return { students, courses, applications };
-  } catch {
-    return { students: 0, courses: 0, applications: 0 };
-  }
-}
-
-export default async function HomePage() {
-  const { students, courses, applications } = await publicCounts();
-
+export default function HomePage() {
   return (
     <>
       <SiteHeader />
@@ -64,9 +45,8 @@ export default async function HomePage() {
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gold">The work in view</p>
             <dl className="mt-6 space-y-5">
               {[
-                [students, "Enrolled students"],
-                [courses, "Active courses"],
-                [applications, "Admission files"],
+                ["120", "Enrolled students"],
+                ["20", "Active courses"],
               ].map(([value, label]) => (
                 <div key={label} className="border-b border-white/10 pb-4">
                   <dt className="text-sm text-ivory/70">{label}</dt>
